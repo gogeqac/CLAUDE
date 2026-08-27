@@ -1,6 +1,6 @@
 # Vocabulary to practice
 
-Running list of words flagged during drilling. Started 2026-08-26. Last updated 2026-08-27 (session 8 complete, exercises 1–20).
+Running list of words flagged during drilling. Started 2026-08-26. Last updated 2026-08-27 (session 8 extension: dative after prepositions, exercises 21–28).
 
 ## Familiarity scale
 
@@ -17,6 +17,50 @@ Rules: a miss drops the score by at least 1. Only repeated unaided use reaches 5
 
 ---
 
+# PREPOSITIONS — opened 2026-08-27
+
+## Always Dativ, no decision needed
+
+**aus, außer, bei, mit, nach, seit, von, zu** — these never take any other case. The only question is *which* preposition, never which case.
+
+Status 2026-08-27: **every case ending in the dative set was correct** — *vom Bahnhof, seit letztem Jahr, zum Arzt, mit seinem Bruder, nach der Besprechung, mit dem Chef, mit ihrer Mutter, aus dem Haus*. Including a dative adjective ending (*letztem*, neuter) produced unaided, which is a logged weak area. The dative itself is not the problem; see word order and preposition choice below.
+
+## Obligatory contractions
+
+*von + dem* → **vom** · *zu + dem* → **zum** · *zu + der* → **zur** · *an + dem* → **am** · *in + dem* → **im** · *bei + dem* → **beim** · *an + das* → **ans** · *in + das* → **ins**
+
+Wrong on 2026-08-27 ex. 4 (*von dem Bahnhof*), then correct unprompted in ex. 21 (*vom Bahnhof*), ex. 23 (*zum Arzt*), ex. 27 (*am Bahnhof*). Looks fixed.
+
+## aus vs. von — ERROR 2026-08-27
+
+- **aus** = emerging from *inside* an enclosed space: *aus dem Haus, aus der Küche, aus dem Zug*
+- **von** = away from a point or surface: *vom Bahnhof, vom Tisch*
+
+Ex. 28: wrote *vom Hause* for "out of the house" → **aus dem Haus**. *vom Bahnhof* had been correct in ex. 21 — a station as a departure point does take *von*, so this is a genuine distinction to drill, not a careless slip.
+
+## Two-way prepositions (an, auf, in, über, unter, vor, hinter, neben, zwischen)
+
+Dativ for location (*wo?*), Akkusativ for movement (*wohin?*).
+- *Die Schlüssel **liegen auf dem** Tisch.* — static, Dativ. Correct unaided, ex. 25.
+- *Ich **lege** die Schlüssel **auf den** Tisch.* — movement, Akkusativ.
+- *ins Kino, in die Küche, ins Bett* — movement, consistently correct.
+
+## Time prepositions
+
+- **um** — clock times: *um acht Uhr* (the odd one out: Akkusativ)
+- **am** — days and parts of day: *am Montag, am Abend*
+- **im** — months and seasons: *im Juli, im Winter*
+- **seit** — duration up to now, + Dativ: *seit letztem Jahr*
+- bare, no preposition — *nächste Woche, jeden Tag*
+
+All correct on 2026-08-27, including *um acht* chosen over *an*.
+
+## Location vs. movement decided by the VERB, not the city
+
+*Ich wohne **in** München.* (location, Dativ) but *Ich ziehe **nach** München.* (movement). Same city, different preposition. Both handled correctly on 2026-08-27, in different exercises.
+
+---
+
 # VERBS
 
 ## Reflexive
@@ -25,29 +69,56 @@ Rules: a miss drops the score by at least 1. Only repeated unaided use reaches 5
 |---|---|---|---|
 | sich beeilen | to hurry | 0 | 2026-08-27 |
 | sich entscheiden (für + Akk.) | to decide | 3 | 2026-08-27 |
+| sich treffen (mit + Dat.) | to meet | 4 | 2026-08-27 |
 | sich verabschieden (von + Dat.) | to say goodbye | 0 | 2026-08-27 |
 | sich freuen auf + Akk. / über + Akk. | to look forward to / be pleased about | 2 | 2026-08-26 |
 
-**sich beeilen** (weak, haben) — *Beeil dich!* / *Beeilen Sie sich!* / *Wir müssen uns beeilen.*
-2026-08-27: verb had to be supplied again. Once given, *uns* was retained correctly. Stays at 0 — the meaning is not the problem, retrieval is.
+**sich beeilen** (weak, haben) — *Beeil dich!* / *Wir müssen uns beeilen.*
+Verb had to be supplied again on 2026-08-27. Stays at 0 — the meaning is not the problem, retrieval is.
 
 **sich entscheiden** (strong: entschied – hat entschieden)
-*Er hat sich entschieden, nach München zu ziehen.* / *Wir haben uns entschieden, zu Hause zu bleiben.*
-Raised 0→3 on 2026-08-27 within the same session: the reflexive was dropped in ex. 9, then retained correctly in ex. 14 in a longer sentence. The correction held. Related: **die Entscheidung**, **beschließen** (more formal).
+Raised 0→3 on 2026-08-27: reflexive dropped in ex. 9, then retained correctly in ex. 14. Related: **die Entscheidung**, **beschließen**.
+
+**sich treffen** (strong: traf – hat getroffen) — new 2026-08-27, score 4. *Wir treffen uns um acht am Bahnhof.* Reflexive retained unaided in a sentence carrying three other decisions. **mit + Dat.** for the person: *Ich treffe mich mit ihm.*
 
 **sich verabschieden** (weak, haben, inseparable)
-*Sie sind gegangen, ohne sich zu verabschieden.* / *Er hat sich von seiner Mutter verabschiedet.*
-Dropped 1→0 on 2026-08-27: supplied for the second consecutive session, and once given the *zu* was omitted. Related: **der Abschied**, **die Verabschiedung**.
+Dropped 1→0 on 2026-08-27: supplied for the second consecutive session, and once given the *zu* was omitted. Related: **der Abschied**.
 
-**sich freuen**
-*Ich freue mich darauf, dich wiederzusehen.* / *Ich freue mich auf den Urlaub.*
-**auf + Akk.** = looking forward (future). **über + Akk.** = pleased about (past/present).
+### Reflexive pronoun drop — IMPROVING, close to resolved
 
-### Reflexive pronoun drop — recurring pattern, IMPROVING
+Went wrong in ex. 9, then correct in ex. 14 (*uns entschieden*) and ex. 27 (*treffen uns*). Two clean productions after the correction, the second in a heavily loaded sentence. Keep an eye on it, but it is no longer a top-tier problem.
 
-The pronoun vanishes under sentence load on **sich beeilen, sich anpassen, sich entscheiden**. Confirmed as a load effect, not a knowledge gap. On 2026-08-27 it went wrong in ex. 9 and then right in ex. 14 after correction. Keep drilling with long sentences, but this is trending up.
+## Verbs taking bare Dativ — no preposition
 
-## On / off / open / close — drill as a contrast set
+**helfen, danken, gehören, gefallen, passen, folgen, antworten, versprechen**
+
+A closed group. English gives no signal, so they have to be learned as a set.
+
+| Verb | Meaning | Score | Last tested |
+|---|---|---|---|
+| helfen (+ Dat.) | to help | 4 | 2026-08-27 |
+| antworten (+ Dat.) | to answer | ? | not yet tested |
+
+**helfen** (strong: half – hat geholfen) — new 2026-08-27, score 4. *Er hat **mir** mit der Arbeit geholfen.* Dative used correctly, and the pronoun was correctly placed before the prepositional phrase.
+
+This matters because of the leak below: *mir* was wrong twice for *fragen*/*bitten* earlier the same day, then right here where it genuinely belongs. The distinction is working.
+
+## Asking — THE DATIVE LEAK
+
+| Verb | Meaning | Score | Last tested |
+|---|---|---|---|
+| fragen (+ Akk.) | to ask (a question) | 3 | 2026-08-27 |
+| bitten (+ Akk., um + Akk.) | to ask for / request | 2 | 2026-08-27 |
+
+**fragen** — bare **Akkusativ**. Also takes **two accusatives**: *Ich möchte dich etwas fragen.* Wrong in ex. 8 (*mir*), correct in ex. 20. Raised 2→3.
+
+**bitten** (strong: bat – hat gebeten) — bare **Akkusativ** person, **um + Akk.** for the thing. Retrieved unprompted in ex. 12 three exercises after being supplied, but with the wrong case.
+
+Sorting the group:
+- **fragen / bitten** + Akk. — act ON the person
+- **versprechen / antworten / helfen** + Dat. — give something TO the person
+
+## On / off / open / close
 
 | Verb | Meaning | Score | Last tested |
 |---|---|---|---|
@@ -61,18 +132,12 @@ The pronoun vanishes under sentence load on **sich beeilen, sich anpassen, sich 
 | öffnen | open (neutral/formal) | ? | not yet tested |
 | schließen | close (neutral/formal) | ? | not yet tested |
 
-All the *machen*/*schalten*/*schließen* ones are separable.
-
-- **anmachen / ausmachen** — lights and devices, colloquial. *Mach das Licht aus.*
+- **anmachen / ausmachen** — lights and devices, colloquial.
 - **einschalten / ausschalten** — same meaning, neutral to formal. From **schalten**; cf. **der Lichtschalter**.
-- **aufmachen / zumachen** — doors and windows. *Mach bitte das Fenster zu.*
+- **aufmachen / zumachen** — doors and windows.
 - **öffnen / schließen** — neutral to formal; also shops, accounts.
-- **abschließen** = to LOCK with a key. New 2026-08-27, score 4: *die Tür abzuschließen* produced unaided, chosen correctly over the weaker *zumachen*.
-- Keep the pairs intact: *aufmachen* with *zumachen*, *öffnen* with *schließen*. Do not cross them.
-
-**ausschalten → 5, RETIRED 2026-08-27.**
-**zumachen → 4.** *zuzumachen* correct unaided — one of the four zu-placement misses of 2026-08-26, fixed.
-**aufmachen → 3.** *aufzumachen* correct, but the sentence used the wrong noun (*die Tür* for *das Fenster*).
+- **abschließen** = to LOCK with a key. Chosen correctly over the weaker *zumachen*.
+- Keep the pairs intact; do not cross them.
 
 ## Leaving / staying / motion
 
@@ -82,56 +147,43 @@ All the *machen*/*schalten*/*schließen* ones are separable.
 | verlassen | to leave (a place/person) | 0 | 2026-08-27 |
 | lassen | to let; to leave behind | 2 | 2026-08-26 |
 | ziehen | to pull; (sein) to move house | 2 | 2026-08-27 |
+| wohnen | to live, reside | 4 | 2026-08-27 |
+| kommen | to come | 3 | 2026-08-27 |
+| ankommen | to arrive | 2 | 2026-08-27 |
 | mitnehmen | to take along | 4 | 2026-08-27 |
 | abholen | to pick up / collect | 3 | 2026-08-27 |
 | erreichen | to reach / catch / get hold of | 3 | 2026-08-27 |
 | ausgehen | to go out | 4 | 2026-08-27 |
 | gehen | to go | 4 | 2026-08-27 |
+| liegen | to lie (static) | 4 | 2026-08-27 |
+| legen | to lay (movement) | ? | not yet tested |
 
-**bleiben** (strong: blieb – **ist** geblieben) — takes SEIN despite meaning *no* change of state. Memorised exception alongside *sein* and *werden*. Raised 2→4 on 2026-08-27 (*zu Hause zu bleiben*, unaided).
+**bleiben** (strong: blieb – **ist** geblieben) — SEIN despite meaning *no* change of state. Memorised exception alongside *sein* and *werden*.
 
-**verlassen** vs. **lassen**
-- **verlassen** (strong, inseparable, *hat verlassen*) = to leave a place or person, needs a direct object, **takes haben**. *Sie hat das Haus verlassen.*
-- **lassen** (strong, *hat gelassen*) = to let / leave something behind.
-Dropped 1→0 on 2026-08-27: not produced at all.
+**verlassen** (strong, inseparable, *hat verlassen*) = to leave a place or person, direct object, **takes haben**. vs. **lassen** = to let / leave behind. Dropped 1→0: not produced at all.
 
-**ziehen** (strong: zog – hat/ist gezogen) — *Er ist nach München gezogen.* Movement to a city takes **nach**, never *in*. Wrong again 2026-08-27. Family: **umziehen, anziehen, ausziehen, einziehen**.
+**ziehen** — movement to a city takes **nach**, never *in*. Family: **umziehen, anziehen, ausziehen, einziehen**.
 
-**mitnehmen** (separable, strong) — raised 1→4 on 2026-08-27: *mitzunehmen* produced unaided in a fully clean sentence. Taking something *with* you, as opposed to bare *nehmen*.
+**wohnen** (weak) — new 2026-08-27, score 4. Location → **in + Dativ**. German uses the PRESENT tense for something ongoing since the past, where English needs "have been living": *Ich wohne seit letztem Jahr in München.* Produced correctly — an easy place to wrongly reach for the Perfekt.
 
-**abholen** (separable, weak) — 3 on 2026-08-27: needed a hint. Idiom **am Bahnhof abholen**.
+**kommen** vs. **ankommen** — new 2026-08-27, ex. 21. Wrote *Sie kommt vom Bahnhof **an***, which reverses the sentence: adding the prefix turns "coming from" into "arriving at".
+- *Sie kommt **vom** Bahnhof.* — leaving it
+- *Sie kommt **am** Bahnhof **an**.* — arriving at it
+*ankommen* needs a destination, not an origin.
 
-**erreichen** (weak, inseparable) — to catch transport; also to get hold of someone. *Sie sind telefonisch nicht zu erreichen.*
-
-**ausgehen** (separable, strong, sein) — new 2026-08-27, score 4. *auszugehen* produced unaided.
-
-**gehen** (strong: ging – **ist** gegangen) — *Sie sind nach Hause gegangen.* Correct auxiliary unaided.
-
-## Asking
-
-| Verb | Meaning | Score | Last tested |
-|---|---|---|---|
-| fragen (+ Akk.) | to ask (a question) | 3 | 2026-08-27 |
-| bitten (+ Akk., um + Akk.) | to ask for / request | 2 | 2026-08-27 |
-| antworten (+ Dat.) | to answer | ? | not yet tested |
-
-**fragen** — bare **Akkusativ** person. *Ich frage dich.* Also takes **two accusatives**: *Ich möchte dich etwas fragen.*
-Wrong in ex. 8 (*mir*), then correct in ex. 20 (*dich etwas fragen*) unaided. Raised 2→3.
-
-**bitten** (strong: bat – hat gebeten) — bare **Akkusativ** person, **um + Akk.** for the thing requested. *Ich bitte dich um Hilfe.*
-Score 2, new 2026-08-27: retrieved unprompted in ex. 12 three exercises after being supplied — good recall — but with the wrong case (*mir* → **mich**).
-
-**THE DATIVE LEAK.** *mir* was written for *fragen* (ex. 8) and again for *bitten* (ex. 12). The source is almost certainly ***versprechen***, which genuinely does take dative and was used correctly in ex. 2. Sorting them:
-- **fragen** + Akk. — acts ON the person
-- **bitten** + Akk. — acts ON the person
-- **versprechen** + Dat. — gives something TO the person
-- **antworten** + Dat. — gives something TO the person
+**liegen** (strong: lag – hat gelegen) vs. **legen** (weak: legte – hat gelegt) — new 2026-08-27, *liegen* score 4.
+The static/movement verb pairs, which drive the two-way preposition case:
+- **liegen** (lie, static) / **legen** (lay, movement)
+- **sitzen** (sit) / **setzen** (set)
+- **stehen** (stand) / **stellen** (place upright)
+The static one is always STRONG; the movement one is always WEAK. Useful shortcut.
 
 ## Other verbs
 
 | Verb | Meaning | Score | Last tested |
 |---|---|---|---|
 | anrufen | to call (on the phone) | 4 | 2026-08-27 |
+| sprechen (mit + Dat.) | to speak | 4 | 2026-08-27 |
 | schneiden | to cut | 1 | 2026-08-26 |
 | wiedersehen | to see again | 0 | 2026-08-27 |
 | regnen | to rain | 2 | 2026-08-27 |
@@ -145,26 +197,19 @@ Score 2, new 2026-08-27: retrieved unprompted in ex. 12 three exercises after be
 | versprechen | to promise | 5 | 2026-08-27 |
 | versuchen | to try | 5 | 2026-08-27 |
 
-**anrufen** (separable, strong: rief an – hat angerufen) — bare **Akkusativ**: *Ich rufe dich an.*
-Raised 3→4 on 2026-08-27: in ex. 16 both *anzurufen* and *mich* were correct inside a fully clean sentence. Contrast: **telefonieren mit + Dat.**
+**anrufen** (separable, strong) — bare **Akkusativ**. Contrast **telefonieren mit + Dat.**
 
-**wiedersehen** (separable, strong) — zu-infinitive **wiederzusehen**. Dropped 1→0 on 2026-08-27: routed around it in ex. 13, writing *dich bald zu sehen* and dropping "again" entirely. Alternative *wieder zu sehen* (two words) is acceptable, but the single verb is more natural and is the target.
+**sprechen** (strong: sprach – hat gesprochen) — new 2026-08-27, score 4. **mit + Dat.** for the person, **über + Akk.** for the topic.
 
-**regnen** (weak, impersonal) — subject is ALWAYS **es**.
+**wiedersehen** — dropped 1→0: routed around it, dropping "again" entirely.
 
-**anfangen** (separable, strong) — takes a *zu*-infinitive. Held at 3: correct on 2026-08-27 but has regressed before, needs one more clean production.
+**anfangen** — takes a *zu*-infinitive. Held at 3: has regressed before, needs one more clean production.
 
-**vergessen → 5, RETIRED 2026-08-27.** Produced unaided twice in one session (ex. 11, ex. 19), plain *zu*-infinitive both times.
+**vergessen → 5, RETIRED.** **versprechen → 5, RETIRED** (dative person). **versuchen → 5, RETIRED.**
 
-**warten auf + Akk.** — new 2026-08-27, score 4. *auf sie zu warten*, preposition and case both correct unaided.
+**schreiben** — dative person, accusative thing. Produced in the same sentence as an accusative *mich* for *anrufen*: two different cases, both right.
 
-**hoffen** — new 2026-08-27, score 4. Inseparable, plain *zu*-infinitive, no *um*.
-
-**schreiben** (strong: schrieb – hat geschrieben) — new 2026-08-27, score 4. Dative person, accusative thing: *Er hat **mir** eine E-Mail geschrieben.* Produced correctly in the same sentence as an accusative *mich* for *anrufen* — two different cases, both right.
-
-**bezahlen / zahlen** — new 2026-08-27, score 4. *bezahlen* is inseparable (*be-* never splits), so *ohne zu bezahlen*. *bezahlen* takes an object readily (*die Rechnung bezahlen*); *zahlen* is what you say in a restaurant (*Ich möchte zahlen, bitte*).
-
-**versprechen → 5, RETIRED.** Dative person. **versuchen → 5, RETIRED.**
+**bezahlen** is inseparable (*be-* never splits). *bezahlen* takes an object (*die Rechnung bezahlen*); *zahlen* is restaurant usage (*Ich möchte zahlen, bitte*).
 
 ---
 
@@ -191,23 +236,47 @@ Raised 3→4 on 2026-08-27: in ex. 16 both *anzurufen* and *mich* were correct i
 | die Tür (-en) | door | 5 | 2026-08-27 |
 | das Licht (-er) | light | 4 | 2026-08-27 |
 | das Bett (-en) | bed | 4 | 2026-08-27 |
-| das Haus (Häuser) | house | 2 | 2026-08-26 |
+| der Tisch (-e) | table | 4 | 2026-08-27 |
+| das Haus (Häuser) | house | 1 | 2026-08-27 |
 
-**das Fenster** — score 0. Wrote *die Tür* when the window was asked for. Neuter, plural unchanged.
-**die Tür → 5, RETIRED 2026-08-27** — correct unaided three times in the session.
-**das Bett** — new 2026-08-27, score 4. *ins Bett gehen* (movement, Akk.) produced correctly.
-**das Haus** — the *-e* survives only in *zu Hause*, *nach Hause*. There is no *von Hause*.
+**das Fenster** — score 0. Wrote *die Tür* when the window was asked for.
+**die Tür → 5, RETIRED 2026-08-27.**
+**der Tisch** — new 2026-08-27, score 4, with correct dative *auf dem Tisch*.
+**das Haus — DROPPED 2→1 on 2026-08-27.** The stray *-e* has now appeared in THREE consecutive sessions: *das Hause*, *von Hause*, *vom Hause*. The *-e* survives ONLY in the fixed phrases *zu Hause* and *nach Hause*. Everywhere else: **das Haus, dem Haus, aus dem Haus**. Drill this directly.
 
 ## Travel
 
 | Noun | Meaning | Score | Last tested |
 |---|---|---|---|
-| der Bahnhof (Bahnhöfe) | station | 4 | 2026-08-27 |
+| der Bahnhof (Bahnhöfe) | station | 5 | 2026-08-27 |
 | der Zug (Züge) | train | 4 | 2026-08-27 |
 | das Flugzeug (-e) | aeroplane | 1 | 2026-08-26 |
 | der Flug (Flüge) | flight (the journey) | 2 | 2026-08-26 |
 
+**der Bahnhof → 5, RETIRED 2026-08-27** — correct unaided three times, with *vom*, *am*, and as a bare noun.
 **das Flugzeug** = the machine; **der Flug** = the journey.
+
+## People
+
+| Noun | Meaning | Score | Last tested |
+|---|---|---|---|
+| die Mutter (Mütter) | mother | 4 | 2026-08-27 |
+| der Bruder (Brüder) | brother | 4 | 2026-08-27 |
+| der Arzt (Ärzte) | doctor | 4 | 2026-08-27 |
+| der Chef (-s) | boss | 4 | 2026-08-27 |
+
+All four produced with correct dative possessive or article endings on 2026-08-27.
+**die Mutter** is in the feminine *-er* group (with *die Schwester, die Butter, die Schulter, die Nummer*) — an exception to *-er* → masculine.
+**zum Arzt gehen** is the fixed phrase.
+
+## Work
+
+| Noun | Meaning | Score | Last tested |
+|---|---|---|---|
+| die Besprechung (-en) | meeting | 4 | 2026-08-27 |
+| die Arbeit (-en) | work | 4 | 2026-08-27 |
+
+**die Besprechung** — new 2026-08-27, retrieved unprompted. **-ung → always feminine.** Alternatives: *das Meeting* (common in offices), *die Sitzung* (more formal).
 
 ## Other nouns
 
@@ -216,14 +285,12 @@ Raised 3→4 on 2026-08-27: in ex. 16 both *anzurufen* and *mich* were correct i
 | der Staat (-en) | the state | 0 | earlier session |
 | der Schlüssel (–) | key | 5 | 2026-08-27 |
 | die E-Mail (-s) | email | 4 | 2026-08-27 |
-| die Lust (no pl. here) | desire, inclination | 4 | 2026-08-27 |
+| die Lust | desire, inclination | 4 | 2026-08-27 |
 | der Fernseher (–) | television | 4 | 2026-08-26 |
 
 **der Staat** vs. **statt / anstatt** (instead of) — different words entirely.
-**der Schlüssel → 5, RETIRED 2026-08-27.** *-el → masculine*, plural identical to singular — used correctly as a plural.
-**die E-Mail** — feminine, hyphenated, capitalised. Produced correctly unaided.
-**die Lust** — new 2026-08-27, score 4. *keine Lust haben* is the idiom; a literal translation of "desire" would go wrong. **auf + Akk.** for a thing (*Lust auf einen Kaffee*), *zu*-infinitive for an action (*Lust, einen Kaffee zu trinken*).
-**der Fernseher** — *-er* agent noun → masculine, plural unchanged.
+**der Schlüssel → 5, RETIRED.** *-el → masculine*, plural identical to singular — used correctly as a plural with a plural verb (*die Schlüssel liegen*), where *liegt* would have been easy.
+**die Lust** — *keine Lust haben* is the idiom. **auf + Akk.** for a thing, *zu*-infinitive for an action.
 
 ---
 
@@ -243,78 +310,84 @@ Raised 3→4 on 2026-08-27: in ex. 16 both *anzurufen* and *mich* were correct i
 | dunkel | dark | 4 | 2026-08-26 |
 | deshalb | therefore, so | 4 | 2026-08-26 |
 
-**heute / morgen / bald** — all lowercase, all placed correctly on 2026-08-27. Watch **morgen** (tomorrow) vs. **der Morgen** (the morning).
-**gern** — new 2026-08-27, score 2: produced but misplaced (*würde gern dich* → **würde dich gern**). Behaves like a time expression for word-order purposes: pronouns go in front of it.
-**wichtig** — new 2026-08-27, score 4. *Es ist wichtig, … zu lernen* — a bare adjective takes plain *zu*, NOT *um…zu*. Correctly distinguished from *zu müde*.
+**heute / morgen / bald** — all lowercase, all placed correctly. Watch **morgen** (tomorrow) vs. **der Morgen** (the morning).
+**gern** — score 2: produced but misplaced (*würde gern dich* → **würde dich gern**). Pronouns go in front of it.
+**wichtig** — *Es ist wichtig, … zu lernen*: a bare adjective takes plain *zu*, NOT *um…zu*.
 **müde → 5, RETIRED.**
-**langsam** — wrote the comparative *langsamer* where the plain adverb was needed.
 
 ---
 
-# GRAMMAR NOTES ATTACHED TO THESE WORDS
+# GRAMMAR NOTES
+
+## Word order — NOW THE MAIN PROBLEM AREA
+
+On 2026-08-27 the dative case endings were flawless and the word order was not. Three separate errors in the middle field.
+
+**Middle-field order: Time → Manner → Place (TeMoLo).**
+*Ich fahre **morgen mit dem Zug nach Berlin**.*
+- Ex. 22: wrote *in München seit letztem Jahr* → **seit letztem Jahr in München** (time before place)
+- Ex. 23: wrote *zum Arzt mit seinem Bruder* → **mit seinem Bruder zum Arzt** (manner before place)
+- Ex. 27: **correct unprompted** — *um acht am Bahnhof*, time then place, four exercises later
+
+**Pronoun objects move left, ahead of adverbs and time expressions**: *Ich rufe **dich morgen** an.* A full noun object stays put: *Ich rufe **morgen meinen Bruder** an.*
+- Wrong twice on 2026-08-27 (ex. 2, ex. 20), then correct in ex. 26 (*mir mit der Arbeit*).
+
+**Fronted phrase vs. fronted clause — COMMA RULE, new error 2026-08-27**
+- **Phrase** (no verb of its own) → NO comma: *Nach der Besprechung haben wir…*
+- **Clause** (has a verb) → comma: *Nachdem wir gesprochen hatten, sind wir gegangen.*
+Ex. 24: wrote *Nach der Besprechung, haben wir…* This is the fronted-clause rule being OVER-applied, not a gap — that rule has been correct unprompted for three sessions.
+
+**Fronted element → finite verb second, subject after it.** SOLID across three sessions.
+
+## Preposition vs. conjunction — the same word twice
+
+A recurring shape worth naming explicitly:
+- **nach** = preposition + Dativ → *nach der Besprechung*
+- **nachdem** = conjunction + full clause, verb last → *nachdem wir gesprochen hatten*
+- **vor** = preposition + Dativ → *vor dem Essen*
+- **bevor** = conjunction + full clause → *bevor sie ins Bett ging*
+
+Error ex. 19 (*Bevor ins Bett gehen*) is the same confusion. English blurs both.
 
 ## zu-placement — THE TEST THAT WORKS
 
 Does the prefix split off in the present tense?
-- *Ich hole **ab*** → yes, separable → **zu goes inside**, one word: *abzuholen*
-- *Ich **ver**abschiede mich* → no, inseparable → **zu goes in front**, separate word: *zu verabschieden*
-- no prefix at all → *zu* in front: *zu kochen, zu bleiben, zu erreichen*
+- *Ich hole **ab*** → separable → **zu inside**, one word: *abzuholen*
+- *Ich **ver**abschiede mich* → inseparable → **zu in front**: *zu verabschieden*
+- no prefix → *zu* in front: *zu kochen, zu bleiben*
 
-**STATUS 2026-08-27: 11/11 correct across the full session.** *auszuschalten, anzurufen, aufzumachen, abzuholen, zuzumachen, mitzunehmen, auszugehen, abzuschließen* plus the inseparable and bare forms. All four verbs missed on 2026-08-26 are now fixed. This was the top recurring error going into the session and was the strongest part of it. Re-test in a later session to confirm it holds.
+**STATUS: 11/11 correct on 2026-08-27**, including all four verbs missed on 2026-08-26. Was the top recurring error; now the strongest area. Re-test later to confirm.
 
-## The zu-family vs. conjunctions — NEW ERROR 2026-08-27
+## The zu-family
 
-These two groups look identical in English and are not:
-- **ohne / statt / um** → preposition-like, take **zu + infinitive**, NO subject, subject inherited from the main clause
-- **bevor / nachdem / während / weil / dass** → **conjunctions**, take a FULL clause with a subject and the finite verb LAST
-
-Error ex. 19: wrote *Bevor ins Bett gehen* → **Bevor sie ins Bett ging**. English blurs this ("before going" looks like "without asking"), which is why it slipped. Drill this contrast directly.
-
-## The zu-family itself
-
-- **um…zu / statt…zu / ohne…zu** all behave identically. SOLID — *statt mich anzurufen* and *ohne zu bezahlen* both produced perfectly on 2026-08-27.
-  - Error 2026-08-27: *ohne sich **verabschieden*** — the *zu* was omitted entirely.
-- **um…zu vs. plain zu**: plain *zu* when a verb or noun demands the infinitive (*versprechen, versuchen, vergessen, hoffen, anfangen, sich entscheiden, keine Zeit, keine Lust*). *um…zu* for genuine purpose — test by whether English "in order to" sounds natural.
+- **um…zu / statt…zu / ohne…zu** all behave identically: comma, no subject, *zu*-infinitive at the end. SOLID.
+  - Error: *ohne sich **verabschieden*** — the *zu* omitted entirely.
+- **um…zu vs. plain zu**: plain *zu* when a verb or noun demands the infinitive (*versprechen, versuchen, vergessen, hoffen, anfangen, sich entscheiden, keine Zeit, keine Lust*). *um…zu* for genuine purpose — test by whether "in order to" sounds natural.
 - **zu + adjective ALWAYS continues with *um…zu***: *zu müde, um heute zu kochen*.
-  - REGRESSION 2026-08-27 (ex. 10): wrote it without *um*, after two correct productions on 2026-08-26. But CORRECTLY distinguished in ex. 15: *Es ist wichtig, … zu lernen* — a bare adjective is not *zu* + adjective and takes plain *zu*. The distinction is understood; the trigger just misfired once.
-- **würde + BARE infinitive** — no *zu*. *Ich würde dich gern etwas fragen.* Correctly produced at the end of a twenty-exercise *zu* set without over-applying the pattern.
-- **damit**: required instead of *um…zu* when the two clauses have different subjects. Verb last.
+  - Regression ex. 10, but correctly distinguished from the bare adjective in ex. 15. The rule is understood; the trigger misfired once.
+- **würde + BARE infinitive** — no *zu*.
+- **damit**: instead of *um…zu* when the subjects differ. Verb last.
 - **Da-compounds**: *auf* → **darauf**, plus *darüber, damit, dafür, davon, daran*. Opened 2026-08-26, STILL NOT DRILLED.
-
-## Case and preposition notes
-
-- **Obligatory contractions**: *von + dem* → **vom**, plus *zum, zur, im, am, ans, ins, beim*. Error 2026-08-27: *von dem Bahnhof*.
-- **Movement to a city takes *nach***, never *in*: *nach München ziehen*. Error 2026-08-27, second session running.
-- **zu Hause** (location) vs. **nach Hause** (movement) — RESOLVED 2026-08-27: both produced correctly three exercises apart (ex. 14 and ex. 17). Previously an error.
-- **fragen + Akk.** and **bitten + Akk.** vs. **antworten + Dat.** and **versprechen + Dat.** See the dative-leak note above.
-- **verlassen** is transitive → **haben**, direct object, no preposition.
-- **Two-way prepositions**: *in die Küche*, *ins Kino*, *ins Bett* (movement, Akk.) — consistently correct.
-- **jeden Tag** — accusative for a definite time span, produced unaided. Masculine accusative is a logged weak area, so this is worth noting.
-
-## Word order
-
-- **Pronoun objects move left, ahead of adverbs and time expressions**: *Ich rufe **dich morgen** an.* But a full noun object stays put: *Ich rufe **morgen meinen Bruder** an.*
-  - Wrong TWICE on 2026-08-27, in the first and last exercise: *morgen mich anzurufen* (ex. 2) and *würde gern dich* (ex. 20). The mid-session correction did not stick. Re-drill.
-- **Zeit vor Ort** (time before place).
-- **Fronted subordinate clause** → finite verb second, subject after it. SOLID — correct unprompted across three consecutive sessions, including in complex sentences.
 
 ## Verb forms
 
-- **Subject–verb agreement slips under load** — the most consistent error of session 8. *wir muss* (ex. 7), *wir hat* (ex. 14). Both with *wir*, both while attention was on a reflexive or an infinitive clause. Not a knowledge gap: *wir haben* and *wir müssen* are known in isolation. Earlier instance: *sie gehst* (session 7). The fix is a habit — reread subject and verb before submitting.
-- **müssen conjugation**: irregular singular (*ich muss, du musst, er muss*), regular plural (*wir müssen, ihr müsst, sie müssen*).
-- **Modals: umlaut = hypothesis.** Präteritum LOSES it (musste, konnte, durfte, mochte); Konjunktiv II KEEPS it (müsste, könnte, dürfte, möchte).
-- **Konjunktiv II conditional** — **würde + infinitive** is the default, but *haben/sein/*modals prefer their own forms.
-- **Ersatzinfinitiv — CONFIRMED SOLID 2026-08-26.** **hätte + main verb infinitive + modal infinitive**. Includes the sein-verb exception: *Er hätte zu Hause bleiben sollen*.
-- **Impersonal verbs** take the dummy **es**: *es regnet, es schneit, es gibt*. Also *Es ist wichtig, …* — placeholder subject, produced correctly.
+- **Subject–verb agreement slips under load** — *wir muss*, *wir hat*, *sie gehst*. Not a knowledge gap. NOTE: correct in ex. 24 and ex. 27 (*haben wir*, *wir treffen*), both under load. Trending up.
+- **müssen**: irregular singular (*ich muss, du musst, er muss*), regular plural (*wir müssen, ihr müsst, sie müssen*).
+- **Modals: umlaut = hypothesis.** Präteritum loses it (musste, konnte); Konjunktiv II keeps it (müsste, könnte).
+- **Konjunktiv II conditional** — **würde + infinitive** default, but *haben/sein/*modals prefer their own forms.
+- **Ersatzinfinitiv — SOLID.** **hätte + main verb infinitive + modal infinitive**, including the sein-verb exception.
+- **Impersonal verbs** take dummy **es**: *es regnet, es gibt, Es ist wichtig…*
+- **jeden Tag** — accusative for a definite time span, produced unaided.
 
 ---
 
 # CORRECTION LOG (my errors, for honesty)
 
-- 2026-08-26, ex. 34: I listed "müssen — umlaut" as an error when Goncalo had correctly written **mussten** (Präteritum, no umlaut). There were two errors in that sentence, not three. Flagged by Goncalo and retracted.
+- 2026-08-26, ex. 34: I listed "müssen — umlaut" as an error when Goncalo had correctly written **mussten** (Präteritum, no umlaut). Two errors in that sentence, not three. Flagged by Goncalo and retracted.
 
 ---
 
 # INTERFACE ISSUES
 
-- 2026-08-27, session 8, ex. 19: a German sentence appeared attached to Goncalo's message that he did not write. He flagged it. The exercise was voided and replaced; nothing from it was scored. This has recurred across multiple sessions. When it happens: acknowledge, void the item, do not treat inserted text as an attempt, do not speculate on the cause, suggest a thumbs-down report.
+- 2026-08-27, session 8: German sentences appeared attached to Goncalo's messages that he did not write — **three times** (ex. 19, ex. 26, ex. 28). Each was voided and replaced; nothing from them was scored. By the third occurrence they were arriving roughly every other exercise, which defeats the drill, and Goncalo was offered the option of stopping and resuming in a fresh chat.
+- Handling: acknowledge, void the item, do not treat inserted text as an attempt, do not speculate on the cause, suggest a thumbs-down report. If it recurs several times in one session, raise the option of a fresh chat rather than continuing to void.
