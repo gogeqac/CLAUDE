@@ -19,8 +19,8 @@ Level is **A2/B1**. This replaces the earlier unresolved note (July sessions use
 | Separable verbs built on *machen* | Practiced with repetition sets |
 | Konjunktiv II (present) | Practiced |
 | Konjunktiv II der Vergangenheit (past subjunctive) | **Paused — found too difficult, deliberately set aside** |
-| zu + Infinitiv vs. um…zu + Infinitiv | Completed — session 7 ran exercises 11–38 |
-| Separable verb + zu (placement drill) | **In progress — session 8, exercises 1–10 of 20 done** |
+| zu + Infinitiv vs. um…zu + Infinitiv | Completed — session 7, exercises 11–38 |
+| Separable verb + zu (placement drill) | **Completed — session 8, 20 exercises. 11/11 on the target structure.** |
 
 ---
 
@@ -28,19 +28,17 @@ Level is **A2/B1**. This replaces the earlier unresolved note (July sessions use
 
 Ordered roughly by how often they came up:
 
-1. **Dative after prepositions** — the single most persistent issue, still never drilled as a dedicated set.
+1. **Subject–verb agreement slips under load** — now the most consistent error. *wir muss*, *wir hat* (both session 8), *sie gehst* (session 7). Always while attention is on a reflexive or an infinitive clause. Not a knowledge gap; the forms are known in isolation.
+2. **Pronoun objects before adverbs / time expressions** — *morgen mich anzurufen*, *würde gern dich*. Wrong in the first and last exercise of session 8; the mid-session correction did not stick.
+3. **Dative after prepositions** — still never drilled as a dedicated set.
    - *an der Ampel*, *an der Kreuzung*, *an der Haltestelle*
-   - Also: *Ich fahre zu meiner Mutter*
-   - Related and recurring: **obligatory contractions** — wrote *von dem Bahnhof* (2026-08-27) instead of *vom*. Drill *vom / zum / zur / im / am / beim*.
-2. **Reflexive pronoun dropped under load** — *sich beeilen*, *sich anpassen*, *sich entscheiden*. Confirmed 2026-08-27 as a load effect, not a knowledge gap: *uns* was retained correctly in one exercise and *sich* dropped two exercises later. Drill with long sentences.
-3. **Adjective and article endings in case agreement**
-   - *ein besseres Job* → *einen besseren Job*; *an dem dritte Ampel* → *an der zweiten Ampel*
-4. **Verb case governance** — *fragen* takes Akkusativ, not Dativ (*Sie hat mir gefragt* → *mich*, 2026-08-27). Contrast *antworten* (Dat.) and *bitten* (Akk. + um + Akk.).
-5. **Movement to a city takes *nach***, never *in* — wrong in two consecutive sessions (*in München zu ziehen*).
-6. **sein vs. haben in the Perfekt** for change-of-state verbs — especially *einschlafen* and *bleiben*.
-7. **Verb conjugation slips under load** — *sie gehst* (session 7), *wir muss* (session 8). In both cases the surrounding structure was correct and the conjugation was the only casualty.
-8. **Word order: pronoun before time expression** — *morgen mich anzurufen* → *mich morgen anzurufen* (2026-08-27). Pronoun objects move left; full noun objects do not.
-9. **Word order: "Zeit vor Ort"** (time before place).
+   - Related: **obligatory contractions** — *von dem Bahnhof* → *vom*. Drill *vom / zum / zur / im / am / beim*.
+4. **Verb case governance — the dative leak.** *fragen* and *bitten* take **Akkusativ**; *mir* was written for both. The source is probably *versprechen*, which genuinely takes dative and was used correctly in the same session.
+5. **Vocabulary retrieval failures repeating across sessions** — *sich verabschieden*, *sich beeilen*, *verlassen*, *wiedersehen*, *das Fenster*. Supplied rather than produced, several for the second session running.
+6. **Movement to a city takes *nach***, never *in* — wrong in two consecutive sessions.
+7. **Reflexive pronoun dropped under load** — *sich beeilen*, *sich anpassen*, *sich entscheiden*. Improving: wrong in ex. 9 of session 8, then correct in ex. 14.
+8. **Adjective and article endings in case agreement** — *ein besseres Job* → *einen besseren Job*.
+9. **sein vs. haben in the Perfekt** for change-of-state verbs.
 10. **Konjunktiv II der Vergangenheit** — infinitive used instead of past participle.
 11. **Spelling / lexical interference from English** — *Ampfel* → *Ampel*; *English* → *Englisch*.
 
@@ -48,20 +46,21 @@ Ordered roughly by how often they came up:
 
 ## 4. What improved
 
-- **Separable verb + zu — the headline result of session 8.** This was the top recurring error after session 7 (four misses in one sitting). Session 8 produced **8/8 correct**, including all four verbs that had failed: *zuzumachen, einzuschalten, anzurufen, anzukommen*. Needs one confirming re-test in a later session.
-- **Fronted subordinate clause** → finite verb second, subject after it. Produced correctly unprompted across three consecutive sessions. Solid.
-- **Ersatzinfinitiv** — confirmed solid in session 7, including the sein-verb exception (*Er hätte zu Hause bleiben sollen*).
-- **zu vs. um…zu**: the structural decision (purpose vs. plain linking) is largely reliable. See the regression note below for the one exception.
-- **Transport vocabulary matching: 5/5 correct**, no hesitation.
-- Actively asks conceptual follow-up questions mid-exercise rather than just accepting corrections — a strong habit.
+- **Separable verb + zu — the headline result of session 8.** Top recurring error after session 7 (four misses in one sitting). Session 8: **11/11 correct**, including all four verbs that had failed. Needs one confirming re-test later.
+- **Five fully clean sentences in session 8**, four of them consecutive (ex. 15–18). Ex. 16 (*Statt mich anzurufen, hat er mir eine E-Mail geschrieben*) carried four separate structures at once, including two different verb cases in the same sentence, all correct.
+- **zu Hause vs. nach Hause — resolved.** Both correct, three exercises apart. Previously a logged error.
+- **Fronted subordinate clause** → finite verb second. Correct unprompted across three consecutive sessions.
+- **Ersatzinfinitiv** — confirmed solid in session 7, including the sein-verb exception.
+- **Idiom selection is getting better** — *keine Lust haben*, *abschließen* over *zumachen*, *bitten* over *fragen* for a request. These are choices a literal translator would get wrong.
+- Actively asks conceptual follow-up questions mid-exercise rather than just accepting corrections.
 
 ---
 
 ## 5. Regressions to watch
 
-- **zu + adjective → um…zu.** Produced correctly twice on 2026-08-26 (*zu dunkel, um hier zu lesen*; *zu müde, um heute zu arbeiten*), then failed on 2026-08-27 (*zu müde, heute zu kochen* — *um* omitted). Re-drill.
+- **zu + adjective → um…zu.** Correct twice on 2026-08-26, then failed on 2026-08-27. But the neighbouring distinction held: *Es ist wichtig, … zu lernen* (bare adjective, plain *zu*) was correct. The rule is understood; the trigger misfired.
 - **anfangen + zu-infinitive.** Correct, then wrong, then correct again across sessions 7–8. Not yet stable.
-- **Vocabulary retrieval failures repeating across sessions**: *sich verabschieden*, *sich beeilen*, *verlassen* all had to be supplied for the second consecutive session and were dropped to 0 in `vocabulary.md`.
+- **Pronoun-before-adverb word order.** Corrected mid-session and reappeared eight exercises later.
 
 ---
 
@@ -83,19 +82,22 @@ None of these have been worked through yet.
 
 ## 7. What to focus on next
 
-**Immediate (unfinished business):**
-1. Finish **separable verb + zu** — exercises 11–20 of session 8 remain.
-2. Drill **dative after prepositions** as a dedicated set, including the obligatory contractions. Highest-value fix; it recurs across every topic and is still untouched.
+The overall shape after session 8: **structures are ahead of vocabulary retrieval and agreement checking.** That is a different problem from the one this session started with, and the plan should follow it.
+
+**Immediate:**
+1. **Dative after prepositions** as a dedicated set, including obligatory contractions. Highest-value fix, recurs everywhere, still untouched after three sessions of being listed first.
+2. **bevor / nachdem / während vs. ohne…zu / statt…zu** — conjunction vs. zu-construction. New error in session 8 and a clean contrast to drill while the zu-family is fresh.
 
 **Short term:**
-3. **Da-compounds** (*darauf, darüber, dafür, davon, daran*) — opened 2026-08-26, still not drilled.
-4. **Reflexive verbs in long sentences** — target the pronoun drop directly rather than hoping it fixes itself.
-5. **sein vs. haben in Perfekt** — narrow drill on change-of-state verbs (einschlafen, bleiben, werden, aufwachen).
-6. **Adjective endings** — masculine accusative especially.
+3. **Vocabulary retention pass, no new grammar** — the repeat-failure items (*sich verabschieden, sich beeilen, verlassen, wiedersehen, das Fenster*) and the kitchen/tableware set, which is still almost entirely untested.
+4. **Da-compounds** (*darauf, darüber, dafür, davon, daran*) — opened 2026-08-26, still not drilled.
+5. **Verb case governance** — a short set contrasting Akkusativ verbs (*fragen, bitten, anrufen*) with Dativ verbs (*antworten, versprechen, helfen, danken*).
 
 **Later:**
-7. Return to **Konjunktiv II der Vergangenheit** once the present-tense form is solid.
-8. Move into the practical Munich vocabulary in section 6 — bureaucracy and housing first.
+6. **sein vs. haben in Perfekt** — change-of-state verbs.
+7. **Adjective endings** — masculine accusative especially.
+8. Return to **Konjunktiv II der Vergangenheit** once the present-tense form is solid.
+9. Move into the practical Munich vocabulary in section 6 — bureaucracy and housing first.
 
 ---
 
@@ -108,7 +110,7 @@ Established preferences from previous sessions:
 - **Corrections requested explicitly**, including on spoken/written attempts.
 - When practising in German, **slower pace** was requested.
 - **English prompts for zu / um…zu exercises must use plain "to", never "in order to"** — otherwise the English cues the construction and the exercise tests nothing.
-- Commit progress mid-session on request, not only at the end.
+- Commit progress mid-session on request, not only at the end. Note that GitHub writes require Gonçalo's approval each time; reads do not.
 
 ---
 
@@ -124,4 +126,4 @@ Established preferences from previous sessions:
 ## 10. Session log
 
 - **Session 7** (2026-08-26) — zu / um…zu, exercises 11–38. Topic completed.
-- **Session 8** (2026-08-27) — separable verb + zu, exercises 1–10 of 20. Six clean or near-clean, four with real errors. The zu-placement itself was 8/8; remaining errors were elsewhere (reflexive drop, *fragen* case, *nach* vs. *in*, *um…zu* after an adjective).
+- **Session 8** (2026-08-27) — separable verb + zu, 20 exercises. **11/11 on the target structure**, all four session-7 misses repaired. Five fully clean sentences. Remaining errors were elsewhere: subject–verb agreement (twice), pronoun word order (twice), the *fragen/bitten* dative leak (twice), *bevor* treated as a zu-construction, and several vocabulary retrieval failures. Four items retired to 5 (*ausschalten, versprechen, versuchen, müde*), four more added at the end of the session (*vergessen, die Tür, der Schlüssel*). Ex. 19 was voided — see the interface-issues note in `vocabulary.md`.
