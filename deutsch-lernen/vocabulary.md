@@ -1,6 +1,6 @@
 # Vocabulary to practice
 
-Running list of words flagged during drilling. Started 2026-08-26. Last updated 2026-08-28 (session 9: article + adjective endings after ein-words, exercises 41–60).
+Running list of words flagged during drilling. Started 2026-08-26. Last updated 2026-08-29 (session 10: vocabulary retention pass, exercises 61–100, isolated items only).
 
 ## Familiarity scale
 
@@ -16,6 +16,53 @@ Running list of words flagged during drilling. Started 2026-08-26. Last updated 
 Rules: a miss drops the score by at least 1. Only repeated unaided use reaches 5. Untested items are marked `?`, not 0.
 
 **TRANSLITERATION — confirmed by Gonçalo 2026-08-28: ASCII substitutes count as CORRECT and are never marked as errors. `ss` = ß, `ae` = ä, `oe` = ö, `ue` = ü.**
+
+---
+
+# BARE-DATIVE VERBS — THE FINDING OF SESSION 10
+
+**The verb comes out; the case does not come with it.** Drilled as isolated items with the case explicitly requested in the prompt:
+
+| Ex. | Item | Verb | Case | Score |
+|---|---|---|---|---|
+| 84 | antworten | correct | **missing** | 2 |
+| 87 | gehören | correct | correct | 4 |
+| 89 | gefallen | correct | **missing** | 2 |
+| 91 | passen | **blank** | — | 0 |
+| 93 | danken | correct | **missing** | 2 |
+| 94 | folgen | correct | **wrong (said Akk.)** | 2 |
+| 95 | helfen | correct | correct | **5, RETIRED** |
+
+**Four of seven produced the verb with no case attached, one blank.** The verbs are known as vocabulary; the dative government is stored separately and is not retrieved with them. This is not a knowledge gap about the dative — case endings have been flawless across two sessions. It is a linking failure.
+
+The full group: **helfen, danken, gehören, gefallen, passen, folgen, antworten, versprechen, schreiben**, plus **kaufen** and other verbs of giving/getting taking a bare dative for the BENEFICIARY where English uses "for".
+
+**Next drill: prompt the verb, require the case in the same answer.** Do not accept the bare infinitive.
+
+Extra notes surfaced:
+- **gefallen** — the thing liked is the SUBJECT, the person is dative: *Die Wohnung gefällt mir.* Subject flip is the reason English gives no signal.
+- **folgen** — also takes **sein** in the Perfekt: *ist gefolgt*.
+
+---
+
+# FIXED PREPOSITIONS — SPLIT RESULT, session 10
+
+| Ex. | Item | Result |
+|---|---|---|
+| 97 | sich freuen auf + Akk. | **correct, all three parts** — was 2, now 4 |
+| 99 | warten auf + Akk. | correct — held at 5 |
+| 98 | Angst haben vor + Dat. | **WRONG: *Angst von*** — exact repeat of the ex. 33 error |
+| 100 | denken an + Akk. | **WRONG: *nachdenken an + Dat.*** |
+
+**Angst vor has now failed twice with the identical wrong preposition (*von*).** Also produced *haben Angst* rather than *Angst haben* in the infinitive — word order inside the fixed expression.
+
+**denken vs. nachdenken** — separated at ex. 100:
+- **denken an + Akk.** = to think of / about someone or something: *Ich denke an dich.*
+- **nachdenken über + Akk.** = to ponder, reflect on: *Ich denke über das Angebot nach.*
+
+The *auf*-verbs are landing; the *vor*/*an* verbs are not. Separating the two that blur:
+- **von** + Dat. = from, of
+- **vor** + Dat. = before, in front of, and in fear expressions
 
 ---
 
@@ -41,28 +88,28 @@ The adjective picks up whatever the article failed to carry. **-en is the defaul
 
 ## STATUS AFTER SESSION 9 — topic essentially repaired
 
-- **Feminine accusative: 6/7.** Was the single weak slot at the end of session 8. Ex. 43 repeated the exact ex. 40 sentence (*eine günstige Wohnung*) and was correct. Then ex. 41, 45, 46, 51, 60. **One slip at ex. 59** (*eine neuen Jacke*), under the heaviest load of the set — load-dependent, not a gap.
-- **Masculine accusative *einen -en*: 5/5** (ex. 44, 46, 50, 56, 60). Was the ex. 37 error.
+- **Feminine accusative: 6/7.** One slip at ex. 59 (*eine neuen Jacke*), under the heaviest load of the set — load-dependent, not a gap.
+- **Masculine accusative *einen -en*: 5/5** (ex. 44, 46, 50, 56, 60).
 - **Neuter accusative bare + adjective *-es*: 3/3** (ex. 42, 45, 54).
 - **Dative errors, the remaining weak area:**
-  - Ex. 42: *meiner Bruder* → **meinem Bruder**. Masculine dative takes *-em*; *-er* is the feminine dative slot. The ending was right, the gender behind it broke — same shape as *zur Arzt*.
-  - Ex. 46: *einer junger Frau* → **einer jungen Frau**. Feminine dative. The article already carries the case, so the adjective falls back to the default *-en*. *-er* on the ADJECTIVE only ever appears in masculine nominative.
-  - Ex. 52: *ein neuen Kollege* → **einem neuen Kollegen**. Adjective right, article missed the case.
+  - Ex. 42: *meiner Bruder* → **meinem Bruder**. Masculine dative takes *-em*; *-er* is the feminine dative slot.
+  - Ex. 46: *einer junger Frau* → **einer jungen Frau**. The article already carries the case, so the adjective falls back to the default *-en*. *-er* on the ADJECTIVE only ever appears in masculine nominative.
+  - Ex. 52: *ein neuen Kollege* → **einem neuen Kollegen**.
 - **Correct dative slots:** *ihrem kleinen Bruder* (ex. 48), *einem kleinen Balkon* (ex. 53), *seiner Mutter* (ex. 54), *einem alten Kollegen* (ex. 55), *in einer kleinen Wohnung* (ex. 57).
 
 **Pattern: accusative is solved. Dative endings fail when the GENDER is misjudged, not when the table is misremembered.**
 
-## Comparative + case ending stacked — NEW, ERROR ex. 49
+## Comparative + case ending stacked — ERROR ex. 49, STILL NOT DRILLED
 
 *eine grösser Wohnung* → **eine größere Wohnung**. Two endings stack: comparative **-er** on the stem (*groß → größer*, umlaut), then the case ending on top.
 - *eine große Wohnung* → *eine größere Wohnung*
 - *einen großen Balkon* → *einen größeren Balkon*
 
-The trap: comparative *-er* looks like a finished adjective ending. It is not. **Not yet drilled beyond this one item.**
+The trap: comparative *-er* looks like a finished adjective ending. It is not.
 
 ---
 
-# WEAK NOUNS (n-declension) — NEW TOPIC, session 9, MISSED TWICE
+# WEAK NOUNS (n-declension) — session 9, RE-TESTED session 10
 
 About 60–80 masculine nouns still carry their own case endings. **Nominative singular is bare; every other slot takes -n or -en**, including the plural.
 
@@ -79,11 +126,12 @@ Three groups:
 
 | Noun | Meaning | Score | Last tested |
 |---|---|---|---|
-| der Kollege (-n) | colleague | 1 | 2026-08-28 |
-| der Nachbar (-n) | neighbour | ? | earlier session |
+| der Kollege (-n) | colleague | 2 | 2026-08-29 |
+| der Nachbar (-n) | neighbour | 4 (nom. only) | 2026-08-29 |
 | der Student (-en) | student (university) | ? | earlier session |
 
-**der Kollege** — missed ex. 52 (three errors in one phrase) and again ex. 55 (only the noun ending, article and adjective correct). Score 1. **Why it feels droppable:** *einen* alone already marks the accusative, so the *-n* carries no information. It is a leftover, not a signal. Hook: the plural *die Kollegen* is a form he already knows — the singular outside nominative is the same form.
+**der Kollege** — ex. 77 asked for article, plural and accusative singular. **Nominative correct; the plural and the accusative *-n* form were both missing.** Raised 1→2: the noun is known, the declension is not.
+**der Nachbar** — ex. 78, nominative correct. The oblique forms were not tested (see format note below). Score covers the nominative only.
 
 ---
 
@@ -117,17 +165,6 @@ Dativ for location (*wo?*), Akkusativ for movement (*wohin?*). **The verb decide
 - **Ex. 36: *an die Wand gehängt* (Akk.) and *über dem Sofa* (Dat.) in ONE sentence, both correct unaided.**
 - Ex. 58: *vor dem Haus* — static, Dativ. Correct unaided.
 
-## Fixed prepositions — welded to the verb/noun
-
-- **Angst haben vor + Dat.** — ERROR ex. 33 (*Angst von*).
-- **warten auf + Akk.** — correct ex. 12, 34, and again **ex. 44**. → 5, RETIRED.
-- **sprechen über + Akk.** — correct ex. 39, again ex. 46.
-- **sich freuen auf + Akk.**, **denken an + Akk.**
-
-Separating the two that blur:
-- **von** + Dat. = from, of
-- **vor** + Dat. = before, in front of, and in fear expressions
-
 ## Dative plural adds -n to the NOUN — ERROR ex. 57
 
 Whenever the plural doesn't already end in *-n* or *-s*: *mit den Freunden, mit den Kindern, aus den Häusern, zwischen den Fenstern*.
@@ -153,14 +190,16 @@ Correct ex. 32, ex. 37. **Dropped at ex. 57: *mit zwei Kinder* → mit zwei Kind
 
 **In the static/movement pairs the static verb is always STRONG and the movement verb always WEAK. The verb form tells you the case.**
 
-## Static / movement pairs
+## Static / movement pairs — HALF SOLID, session 10
 
-| Static (strong) | Movement (weak) |
-|---|---|
-| liegen – lag – gelegen | legen – legte – gelegt |
-| sitzen – saß – gesessen | setzen – setzte – gesetzt |
-| stehen – stand – gestanden | stellen – stellte – gestellt |
-| hängen – hing – gehangen | hängen – hängte – gehängt |
+| Static (strong) | Movement (weak) | Session 10 |
+|---|---|---|
+| liegen – lag – gelegen | legen – legte – gelegt | not tested |
+| sitzen – saß – gesessen | setzen – setzte – gesetzt | **both correct, ex. 81/82** |
+| stehen – stand – gestanden | stellen – stellte – gestellt | **stellen MISSED, ex. 80** |
+| hängen – hing – gehangen | hängen – hängte – gehängt | not tested |
+
+**stellen — ERROR ex. 80.** Prompted "to place upright"; answered *stehen*. The static member was produced for the movement member. *sitzen/setzen* were then both correct as a clean pair, so the pair structure is understood — *stellen* specifically is not retrievable.
 
 ## e → i vowel change in the present singular — REPAIRED 2026-08-28
 
@@ -172,30 +211,38 @@ Ex. 39: wrote *Sie sprechen* for "she". **Ex. 46: *Er spricht* correct unprompte
 
 | Verb | Meaning | Score | Last tested |
 |---|---|---|---|
-| sich beeilen | to hurry | 0 | 2026-08-27 |
+| sich beeilen | to hurry | **4** | 2026-08-29 |
 | sich entscheiden (für + Akk.) | to decide | 3 | 2026-08-27 |
 | sich treffen (mit + Dat.) | to meet | 4 | 2026-08-27 |
-| sich verabschieden (von + Dat.) | to say goodbye | 0 | 2026-08-27 |
-| sich freuen auf/über + Akk. | to look forward to / be pleased about | 2 | 2026-08-26 |
+| sich verabschieden (von + Dat.) | to say goodbye | **2** | 2026-08-29 |
+| sich freuen auf/über + Akk. | to look forward to / be pleased about | **4** | 2026-08-29 |
 
-**sich beeilen** and **sich verabschieden** — both at 0, supplied for two consecutive sessions. Untested in session 9. **Priority for the retention pass.**
+**sich beeilen — RAISED 0→4.** Produced unaided at ex. 67 after being supplied in two consecutive sessions. Biggest single gain of session 10.
+**sich verabschieden — RAISED 0→2.** The verb came at ex. 68; **the *von + Dat.* was missing.** Same shape as the bare-dative failures above: the verb is stored without its government.
+**sich freuen auf — RAISED 2→4.** All three parts correct at ex. 97 (reflexive, preposition, case).
 
 ### Reflexive pronoun drop — IMPROVING, close to resolved
 Wrong ex. 9, correct ex. 14 and ex. 27.
 
-## Verbs taking bare Dativ — no preposition
+## Verbs taking bare Dativ
 
-**helfen, danken, gehören, gefallen, passen, folgen, antworten, versprechen, schreiben** — a closed group; English gives no signal. Also **kaufen** and other verbs of giving/getting take a bare dative for the BENEFICIARY where English uses "for".
+See the dedicated section at the top of this file — this is the live gap after session 10.
 
 | Verb | Meaning | Score | Last tested |
 |---|---|---|---|
-| helfen (+ Dat.) | to help | 4 | 2026-08-27 |
+| helfen (+ Dat.) | to help | **5** | 2026-08-29 |
+| gehören (+ Dat.) | to belong to | **4** | 2026-08-29 |
+| antworten (+ Dat.) | to answer | **2** | 2026-08-29 |
+| gefallen (+ Dat.) | to please, be liked by | **2** | 2026-08-29 |
+| danken (+ Dat.) | to thank | **2** | 2026-08-29 |
+| folgen (+ Dat., sein) | to follow | **2** | 2026-08-29 |
+| passen (+ Dat.) | to fit, to suit | **0** | 2026-08-29 |
 | schreiben (+ Dat. person) | to write | 2 | 2026-08-28 |
 | kaufen (+ Dat. beneficiary) | to buy | 4 | 2026-08-28 |
-| antworten (+ Dat.) | to answer | ? | not yet tested |
 
-**schreiben** — DROPPED 4→2 at ex. 52: wrote *für ein neuen Kollege* instead of *einem neuen Kollegen*. English "to a colleague" invites a preposition; German takes the bare dative.
-**kaufen** — new, score 4. **Ex. 54 produced the bare dative UNAIDED** (*Er kauft seiner Mutter ein kleines Haus*) for English "for his mother", two items after failing the same structure with *schreiben*. Restructuring away from a literal *für* + Akk. is exactly the target behaviour.
+**helfen → 5, RETIRED.** Verb and case correct unaided at ex. 95, after being correct on 2026-08-27. The only member of the group that is complete.
+**gehören** — new, score 4. Verb and case volunteered together without prompting for the case separately.
+**passen** — blank at ex. 91. The only total miss in the group.
 
 ## Asking — THE DATIVE LEAK
 
@@ -214,18 +261,19 @@ Wrong ex. 9, correct ex. 14 and ex. 27.
 | liegen | to lie (static) | 4 | 2026-08-27 |
 | legen | to lay (movement) | 4 | 2026-08-27 |
 | stehen | to stand | 4 | 2026-08-27 |
-| stellen | to place upright | ? | not yet tested |
+| stellen | to place upright | **0** | 2026-08-29 |
 | hängen | to hang (both) | 4 | 2026-08-27 |
-| sitzen / setzen | to sit / to set | ? | not yet tested |
+| sitzen | to sit (static) | **4** | 2026-08-29 |
+| setzen | to set, to seat (movement) | **4** | 2026-08-29 |
 
-German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wohnzimmer steht ein großer Tisch.* Noted again at ex. 53 — *es gibt* was used and is not wrong, just less idiomatic. Note the flip to nominative (*ein großer Tisch*, the masc. nom. *-er* slot).
+German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wohnzimmer steht ein großer Tisch.*
 
 ## Leaving / staying / motion
 
 | Verb | Meaning | Score | Last tested |
 |---|---|---|---|
 | bleiben | to stay | 4 | 2026-08-27 |
-| **verlassen** | to leave (a place/person) | **4** | 2026-08-27 |
+| verlassen | to leave (a place/person) | 4 | 2026-08-27 |
 | lassen | to let; to leave behind | 2 | 2026-08-26 |
 | ziehen | to pull; (sein) to move house | 2 | 2026-08-27 |
 | wohnen | to live, reside | 5 | 2026-08-28 |
@@ -241,9 +289,9 @@ German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wo
 | ausgehen | to go out | 4 | 2026-08-27 |
 | gehen | to go | 5 | 2026-08-28 |
 
-**wohnen / suchen / gehen → 5, RETIRED** — all three correct again unaided in session 9 (ex. 57, ex. 43/49, ex. 48).
-**verlassen** — RAISED 0→4 on 2026-08-27, the biggest gain of that session.
-**suchen** — bare accusative, no preposition, unlike English "look **for**". Correct twice more.
+**wohnen / suchen / gehen → 5, RETIRED.**
+**verlassen** — RAISED 0→4 on 2026-08-27.
+**suchen** — bare accusative, no preposition, unlike English "look **for**".
 **bleiben** (strong: blieb – **ist** geblieben) — SEIN despite no change of state.
 **wohnen / arbeiten** — PRESENT tense with *seit* where English needs "have been …ing".
 
@@ -253,15 +301,15 @@ German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wo
 |---|---|---|---|
 | anrufen | to call | 4 | 2026-08-27 |
 | sprechen (mit + Dat. / über + Akk.) | to speak | 4 | 2026-08-28 |
-| schneiden | to cut | 1 | 2026-08-26 |
-| wiedersehen | to see again | 0 | 2026-08-27 |
+| schneiden | to cut | **4** | 2026-08-29 |
+| wiedersehen | to see again | **4** | 2026-08-29 |
+| denken (an + Akk.) | to think of/about | **1** | 2026-08-29 |
+| nachdenken (über + Akk.) | to ponder, reflect on | ? | not yet tested |
 | regnen | to rain | 2 | 2026-08-28 |
 | anfangen | to begin | 2 | 2026-08-28 |
 | vergessen | to forget | 5 | 2026-08-27 |
-| warten (auf + Akk.) | to wait for | 5 | 2026-08-28 |
+| warten (auf + Akk.) | to wait for | 5 | 2026-08-29 |
 | hoffen | to hope | 4 | 2026-08-27 |
-| schreiben (+ Dat. person) | to write | 2 | 2026-08-28 |
-| kaufen (+ Dat. beneficiary) | to buy | 4 | 2026-08-28 |
 | bezahlen / zahlen | to pay | 4 | 2026-08-27 |
 | verdienen | to earn | 4 | 2026-08-26 |
 | versprechen | to promise | 5 | 2026-08-27 |
@@ -269,31 +317,49 @@ German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wo
 | geben | to give | 4 | 2026-08-28 |
 | haben | to have | 5 | 2026-08-28 |
 
-**sprechen** — RECOVERED 3→4: *Er spricht* correct unprompted at ex. 46 after the ex. 39 conjugation failure.
-**warten auf + Akk. → 5, RETIRED.** Correct in three separate sessions.
-**geben** — new, score 4: *Er gab mir eine gute Antwort* (ex. 51), Präteritum chosen unprompted and correctly — *geben* is on the agreed ~20-verb production list.
-**anfangen** — DROPPED 3→2 at ex. 59: wrote *regnen angefangen hat* instead of *angefangen hat zu regnen*. Has now regressed three times. See the grammar note below.
+**schneiden — RAISED 1→4** (ex. 74). Strong: *schnitt – hat geschnitten*. Only the infinitive was requested.
+**wiedersehen — RAISED 0→4** (ex. 69). Separable: *ich sehe dich morgen wieder*.
+**denken an — score 1.** Ex. 100 produced *nachdenken an + Dat.*: wrong member of the family AND wrong case. The stem was recognised, nothing else.
+**warten auf + Akk.** — held at 5 (ex. 99).
+**anfangen** — regressed three times; *anfangen* + **zu-infinitive**, and the zu-infinitive trails to the RIGHT of the finite verb in a subordinate clause.
 
 ---
 
 # NOUNS
 
-## Kitchen / tableware — retention set, STILL UNTESTED
+## Kitchen / tableware — TESTED AT LAST, session 10. WEAKEST AREA IN THE FILE.
 
 | Noun | Meaning | Score | Last tested |
 |---|---|---|---|
-| das Messer (–) | knife | 0 | 2026-08-26 |
-| die Gabel (-n) | fork | ? | not yet tested |
-| der Löffel (–) | spoon | ? | not yet tested |
-| das Besteck | cutlery | ? | not yet tested |
-| der Teller (–) | plate | ? | not yet tested |
-| der Topf (Töpfe) | pot | ? | not yet tested |
+| das Messer (–) | knife | **4** | 2026-08-29 |
+| der Teller (–) | plate | **4** | 2026-08-29 |
+| die Gabel (-n) | fork | **1** | 2026-08-29 |
+| der Topf (Töpfe) | pot | **1** | 2026-08-29 |
+| der Löffel (–) | spoon | **0** | 2026-08-29 |
+| das Besteck | cutlery | **0** | 2026-08-29 |
+
+**First pass 2/6** (ex. 61–66): *Messer* and *Teller* clean, the other four blank.
+**Second pass, same session** (ex. 83, 86, 88, 90): *Gabel* and *Topf* returned correct, **but I had supplied both 20 items earlier — not a clean test, hence score 1 not 4.** *Löffel* and *Besteck* were **still blank on the second attempt**, roughly 25 items after being supplied. That is an encoding failure, not a retrieval failure.
+
+**Priority: *der Löffel* and *das Besteck*. Re-test *die Gabel* and *der Topf* cold in a later session.**
+Hook offered: *Löffel* and *Teller* are both masculine *-el*/*-er* nouns with no plural ending — *Teller* was cold twice, *Löffel* twice missed, despite the identical shape.
+
+## Clothing — NEW AREA, opened session 10
+
+| Noun | Meaning | Score | Last tested |
+|---|---|---|---|
+| der Mantel (Mäntel) | coat (full-length) | **4** | 2026-08-29 |
+| die Jacke (-n) | jacket | **4** | 2026-08-29 |
+
+**der Mantel — RAISED 0→4** (ex. 72), one day after being supplied. Plural *Mäntel* (umlaut, no ending).
+**die Jacke** — first test, correct. The *Jacke*/*Mantel* confusion from ex. 59 is resolved.
+The rest of the clothing set is still untouched.
 
 ## Around the house
 
 | Noun | Meaning | Score | Last tested |
 |---|---|---|---|
-| das Fenster (–) | window | 2 | 2026-08-27 |
+| das Fenster (–) | window | **4** | 2026-08-29 |
 | die Tür (-en) | door | 5 | 2026-08-27 |
 | das Licht (-er) | light | 4 | 2026-08-27 |
 | das Bett (-en) | bed | 4 | 2026-08-27 |
@@ -301,13 +367,13 @@ German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wo
 | die Wand (Wände) | wall | 4 | 2026-08-27 |
 | das Sofa (-s) | sofa | 4 | 2026-08-27 |
 | die Wohnung (-en) | flat | 5 | 2026-08-28 |
-| das Haus (Häuser) | house | **5** | 2026-08-28 |
+| das Haus (Häuser) | house | 5 | 2026-08-28 |
 | das Wohnzimmer (–) | living room | 2 | 2026-08-28 |
 | der Balkon (-e/-s) | balcony | 4 | 2026-08-28 |
 
-**das Haus → 5, RETIRED.** Correct twice in session 9 (ex. 54 *ein kleines Haus*, ex. 58 *vor dem Haus*). After failing with a stray *-e* in three consecutive sessions. The *-e* survives ONLY in *zu Hause* and *nach Hause*.
-**die Wohnung / der Tisch → 5, RETIRED.**
-**das Wohnzimmer** — new, score 2: wrote *Wohnszimmer* with a spurious linking *-s-*. **Compound joints are inconsistent**: *Wohnzimmer* has no linker, *Badezimmer* takes *-e-*, *Arbeitszimmer* takes *-s-*. No rule — memorize per word.
+**das Fenster — RAISED 2→4** (ex. 70), a repeat-failure item cleared. Dative plural *den Fenstern*.
+**das Haus / die Wohnung / der Tisch / die Tür → 5, RETIRED.** The *-e* in *Haus* survives ONLY in *zu Hause* and *nach Hause*.
+**das Wohnzimmer** — wrote *Wohnszimmer* with a spurious linking *-s-*. **Compound joints are inconsistent**: *Wohnzimmer* has no linker, *Badezimmer* takes *-e-*, *Arbeitszimmer* takes *-s-*. No rule — memorize per word.
 
 ## Travel
 
@@ -316,12 +382,12 @@ German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wo
 | der Bahnhof (Bahnhöfe) | station | 5 | 2026-08-28 |
 | der Zug (Züge) | train | 4 | 2026-08-27 |
 | die Tasche (-n) | bag | 5 | 2026-08-28 |
-| das Flugzeug (-e) | aeroplane | 1 | 2026-08-26 |
+| das Flugzeug (-e) | aeroplane | **2** | 2026-08-29 |
 | der Flug (Flüge) | flight | 3 | 2026-08-28 |
 
-**der Bahnhof** — held at 5. Ex. 44 spelled it *Banhof*; the *h* belongs to the stem (*die Bahn* + *der Hof*). Spelling only, gender and case correct.
-**die Tasche → 5, RETIRED** (ex. 41).
-**der Flug** — RAISED 2→3: *einen günstigen Flug* correct at ex. 56, both parts. **das Flugzeug** = the machine; **der Flug** = the journey.
+**das Flugzeug — RAISED 1→2** (ex. 75): the noun came, **the article did not.** Neuter, from *das Zeug*.
+**der Bahnhof** — the *h* belongs to the stem (*die Bahn* + *der Hof*).
+**das Flugzeug** = the machine; **der Flug** = the journey.
 
 ## People
 
@@ -334,11 +400,9 @@ German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wo
 | die Frau (-en) | woman | 5 | 2026-08-28 |
 | der Freund (-e) | friend | 5 | 2026-08-28 |
 | der Mann (Männer) | man | 4 | 2026-08-28 |
-| der Kollege (-n) | colleague | 1 | 2026-08-28 |
+| der Kollege (-n) | colleague | 2 | 2026-08-29 |
+| der Nachbar (-n) | neighbour | 4 (nom.) | 2026-08-29 |
 
-**der Arzt** — RECOVERED 3→4: *zum Arzt* correct at ex. 48 after the *zur Arzt* slip at ex. 29.
-**die Mutter / der Chef / die Frau / der Freund → 5, RETIRED.**
-**der Bruder** — held at 4 despite ex. 42 (*meiner Bruder*): the noun and gender knowledge were fine, the article ending was the error. Logged under endings, not vocabulary.
 **die Mutter** is in the feminine *-er* group (*die Schwester, die Butter, die Schulter, die Nummer*).
 
 ## Work and time
@@ -351,34 +415,31 @@ German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wo
 | der Sommer (–) | summer | 4 | 2026-08-27 |
 | der Job (-s) | job | 4 | 2026-08-28 |
 
-**die Besprechung → 5, RETIRED** (ex. 46, ex. 55).
-**der Job** — new, score 4. English loanword, masculine. Register note: *die Arbeit* or *die Stelle* are more usual in writing; *Job* is normal in speech.
+**der Job** — register note: *die Arbeit* or *die Stelle* are more usual in writing; *Job* is normal in speech.
 
 ## Other nouns
 
 | Noun | Meaning | Score | Last tested |
 |---|---|---|---|
-| das Essen (–) | meal, food | 1 | 2026-08-27 |
-| die Angst (Ängste) | fear | 2 | 2026-08-27 |
+| das Essen (–) | meal, food | **4** | 2026-08-29 |
+| der Staat (-en) | the state | **4** | 2026-08-29 |
+| die Angst (Ängste) | fear | 2 | 2026-08-29 |
 | die Prüfung (-en) | exam | 4 | 2026-08-27 |
 | das Buch (Bücher) | book | 5 | 2026-08-28 |
 | das Bild (-er) | picture | 4 | 2026-08-27 |
 | das Auto (-s) | car | 5 | 2026-08-28 |
 | der Film (-e) | film | 4 | 2026-08-27 |
-| der Staat (-en) | the state | 0 | earlier session |
 | der Schlüssel (–) | key | 5 | 2026-08-28 |
 | die E-Mail (-s) | email | 5 | 2026-08-28 |
 | die Lust | desire | 4 | 2026-08-27 |
 | der Fernseher (–) | television | 4 | 2026-08-26 |
 | die Antwort (-en) | answer | 4 | 2026-08-28 |
-| der Mantel (Mäntel) | coat | 0 | 2026-08-28 |
-| die Jacke (-n) | jacket | ? | not yet tested |
 
-**das Buch / das Auto / der Schlüssel / die E-Mail → 5, RETIRED.**
-**die E-Mail** — feminine, which is not obvious from the loanword. Correct at ex. 52.
-**die Antwort** — new, score 4. **Feminine despite containing *Wort* (neuter)** — he was not pulled by it.
-**der Mantel** — supplied 2026-08-28, score 0. *die Jacke* was used for "coat"; *Jacke* = jacket, *Mantel* = full-length coat. Plural *Mäntel* (umlaut, no ending). Clothing is an untouched vocabulary area.
-**das Essen** — **Nominalized infinitive → always neuter** (cf. *das Leben, das Wissen, das Verhalten*).
+**das Essen — RAISED 1→4** (ex. 71), a repeat-failure item cleared. **Nominalized infinitive → always neuter** (cf. *das Leben, das Wissen, das Verhalten*).
+**der Staat — RAISED 0→4** (ex. 76), the oldest 0 in the file. Plural *die Staaten*.
+**die Angst** — held at 2: the noun was produced at ex. 98, the preposition was wrong. Logged under fixed prepositions.
+**die E-Mail** — feminine, which is not obvious from the loanword.
+**die Antwort** — **feminine despite containing *Wort* (neuter)**.
 
 ---
 
@@ -393,26 +454,26 @@ German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wo
 | groß | big | 4 | 2026-08-28 |
 | günstig | cheap, good value | 4 | 2026-08-28 |
 | schwer | heavy; difficult | 4 | 2026-08-28 |
-| schwierig | difficult (only) | ? | not yet tested |
+| schwierig | difficult (only) | **4** | 2026-08-29 |
 | gut | good | 4 | 2026-08-28 |
 | wichtig | important | 5 | 2026-08-28 |
-| wieder | again | 2 | 2026-08-26 |
-| weiter | further | ? | not yet tested |
+| wieder | again | **4** | 2026-08-29 |
+| weiter | further | **4** | 2026-08-29 |
 | heute | today | 4 | 2026-08-27 |
 | gestern | yesterday | 4 | 2026-08-28 |
 | morgen | tomorrow | 4 | 2026-08-27 |
 | schon | already | 4 | 2026-08-28 |
 | bald | soon | 4 | 2026-08-27 |
-| gern | gladly | 2 | 2026-08-27 |
+| gern / gerne | gladly | **4** | 2026-08-29 |
 | müde | tired | 5 | 2026-08-27 |
 | langsam | slow(ly) | 3 | 2026-08-26 |
 | dunkel | dark | 4 | 2026-08-26 |
 | deshalb | therefore | 4 | 2026-08-26 |
 
-**günstig** — RAISED 2→4: *eine günstige Wohnung* (ex. 43, the repaired ex. 40 sentence) and *einen günstigen Flug* (ex. 56). Alternative: **billig** (cheap, sometimes pejorative).
-**klein / alt / neu / wichtig → 5, RETIRED.**
+**wieder — RAISED 2→4**, **gern — RAISED 2→4**, **schwierig** and **weiter** first tested and correct. **The adverb set is clean: 4/4 in session 10.**
 **schwer** = heavy AND difficult; **schwierig** = difficult only, and the sharper choice for a job or a problem.
-**groß** — comparative *größer* takes the umlaut. See the stacked-ending note above.
+**gern** and **gerne** are both standard; no preference.
+**groß** — comparative *größer* takes the umlaut.
 **morgen** (tomorrow) vs. **der Morgen** (the morning).
 
 ---
@@ -435,7 +496,7 @@ German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wo
 | 55 | **correct unprompted** — fronted phrase + *mit einem alten Kollegen* |
 | 57 | **correct unprompted** — *mit zwei Kindern in einer kleinen Wohnung* |
 
-**Three consecutive correct in session 9. The ex. 23 sentence was re-given at ex. 48 and repaired.**
+**Not tested in session 10 — the format was isolated items only.**
 
 **Object placement:** ex. 58 put the place phrase before a new-information accusative object (*vor dem Haus einen jungen Mann gesehen*) — natural German, correct unaided.
 
@@ -446,24 +507,24 @@ German prefers **stehen** over *es gibt* for objects positioned in space: *Im Wo
 - **Clause** (has a verb) → comma: *Nachdem wir gesprochen hatten, sind wir gegangen.*
 Wrong ex. 24, then correct unprompted ex. 29, 35, and **ex. 55**. Fixed.
 
-**Fronted element → finite verb second.** SOLID across four sessions (ex. 55, ex. 58).
+**Fronted element → finite verb second.** SOLID across four sessions.
 
-## Plusquamperfekt — STILL THE MAIN STRUCTURAL GAP, ERROR ex. 59
+## Plusquamperfekt — STILL THE MAIN STRUCTURAL GAP
 
 English "had + participle" → German **war/hatte + Partizip II**. Auxiliary in the PAST form; participle unchanged.
 
-Ex. 59: *Sie hat schon eine neuen Jacke gekauft* → **Sie hatte schon einen neuen Mantel gekauft**. Perfekt produced where Plusquamperfekt was required.
+Ex. 59: *Sie hat schon eine neuen Jacke gekauft* → **Sie hatte schon einen neuen Mantel gekauft**.
 
-**Trigger to watch for: *bevor* and *nachdem*.** They signal that one event preceded another; the EARLIER event takes Plusquamperfekt. This has now been flagged across sessions 2, 6 and 9. Session 6 produced it correctly unaided three times, so it is not absent — it fails when other load is present. **Next dedicated topic.**
+**Trigger to watch for: *bevor* and *nachdem*.** The EARLIER event takes Plusquamperfekt. Flagged across sessions 2, 6 and 9. Session 6 produced it correctly unaided three times, so it is not absent — it fails when other load is present. **Not tested in session 10 (isolated items).**
 
 ## anfangen + zu-infinitive — THIRD REGRESSION, ERROR ex. 59
 
 *anfangen* governs a **zu-infinitive**, not a bare one.
 
 Wrote: *bevor es regnen angefangen hat* — the Ersatzinfinitiv shape, which applies only with MODALS.
-Correct: *bevor es angefangen hat zu regnen* — the finite verb goes last in the subordinate clause, but **the zu-infinitive sits OUTSIDE the verbal bracket and trails after it.** That is the specific point that was missing: *regnen* goes to the RIGHT of *hat*, not the left.
+Correct: *bevor es angefangen hat zu regnen* — **the zu-infinitive sits OUTSIDE the verbal bracket and trails after the finite verb.**
 
-Simpler alternatives given: *bevor es anfing zu regnen* (Präteritum; *anfangen* is on the production list), or drop the verb entirely — *Vor dem Regen hatte sie…* (session 6's escape hatch: convert the clause to a prepositional phrase).
+Simpler alternatives: *bevor es anfing zu regnen*, or convert the clause to a prepositional phrase — *Vor dem Regen hatte sie…*
 
 ## Preposition vs. conjunction — the same word twice
 
@@ -472,7 +533,7 @@ Simpler alternatives given: *bevor es anfing zu regnen* (Präteritum; *anfangen*
 - **vor** = preposition + Dativ → *vor dem Haus*
 - **bevor** = conjunction + full clause → *bevor sie ins Bett ging*
 
-Error ex. 19 (*Bevor ins Bett gehen*). **Ex. 59 got the *bevor*-clause structure right** (verb last), so the conjunction itself is landing; the contents of the clause were the problem. Still worth a dedicated drill.
+Error ex. 19. Ex. 59 got the *bevor*-clause structure right (verb last). Still worth a dedicated drill.
 
 ## zu-placement — THE TEST THAT WORKS
 
@@ -490,13 +551,13 @@ Does the prefix split off in the present tense? Separable → **zu inside** (*ab
 
 ## Verb forms
 
-- **Subject–verb agreement** — four errors on 2026-08-27, **ZERO in session 9**. First clean session. Watch whether it holds.
-- **English bleeding in under load**: *Her* for *Er*, *We*/*Munich* in session 7, and ***I* for *Ich* at ex. 56**. The German around it was fully correct each time — the pronoun is the casualty.
+- **Subject–verb agreement** — four errors on 2026-08-27, ZERO in session 9. Not testable in session 10.
+- **English bleeding in under load**: *Her* for *Er*, *We*/*Munich* in session 7, *I* for *Ich* at ex. 56. **None in session 10** — but the isolated-item format carries almost no load.
 - **müssen**: irregular singular, regular plural.
 - **Modals: umlaut = hypothesis.** Präteritum loses it; Konjunktiv II keeps it.
-- **Ersatzinfinitiv — SOLID.** Applies with MODALS only — see the *anfangen* error above for the over-application.
-- **es gibt** — forces Akkusativ on what follows. Correct ex. 37, ex. 53.
-- **Präteritum production** — agreed scope: sein/haben/werden + modals + ~20 high-frequency strong verbs. *gab* produced correctly and unprompted at ex. 51.
+- **Ersatzinfinitiv — SOLID.** Applies with MODALS only.
+- **es gibt** — forces Akkusativ on what follows.
+- **Präteritum production** — agreed scope: sein/haben/werden + modals + ~20 high-frequency strong verbs.
 
 ---
 
@@ -504,8 +565,11 @@ Does the prefix split off in the present tense? Separable → **zu inside** (*ab
 
 - 2026-08-26, ex. 34: I listed "müssen — umlaut" as an error when Gonçalo had correctly written **mussten** (Präteritum, no umlaut). Flagged by Gonçalo and retracted.
 - 2026-08-27, ex. 37: I told him *Fenstern* was wrong, then corrected myself in the same message. **Dative plural DOES take the *-n***. Three real errors in that sentence, not four.
-- 2026-08-28, ex. 44/45: I marked *grosse* as an error requiring *große*. Gonçalo corrected me: **ASCII transliteration is to be treated as correct**, and this had been confirmed in an earlier session. Ex. 45 stands as fully correct. Convention added to the header of this file.
-- 2026-08-28, ex. 54: **I leaked the answer.** My ex. 49 correction wrote out *größere* in full with the umlaut and the stacked ending; five items later I prompted "a bigger car". Not a clean test. Item voided and replaced. **This is the third or fourth occurrence of the same failure mode** — before writing any prompt, check the target word has not appeared in my own earlier explanations this session.
+- 2026-08-28, ex. 44/45: I marked *grosse* as an error requiring *große*. Gonçalo corrected me: **ASCII transliteration is to be treated as correct**. Ex. 45 stands as fully correct.
+- 2026-08-28, ex. 54: **I leaked the answer.** My ex. 49 correction wrote out *größere* in full, then five items later I prompted "a bigger car". Item voided and replaced.
+- 2026-08-29, ex. 61: **I opened session 10 with a full sentence** when the request was to practise vocabulary. Gonçalo corrected the format immediately: **vocabulary means isolated items — noun with article, verb infinitive, adjective — not sentences.** Ex. 61 was reissued in the correct format.
+- 2026-08-29, ex. 83/86: **same-session re-test after supplying the answer.** I supplied *Gabel* and *Topf* at ex. 62/65 and re-tested them at ex. 83/86 in the same set. They came back correct, but that is not evidence of retention — scored 1, not 4. **Spacing a re-test 20 items later inside one session is not spacing.** Re-test cold in a later session.
+- 2026-08-29, ex. 77/78: I asked for three forms of a weak noun in one prompt (article, plural, accusative). Gonçalo asked for the nominative only. **One form per prompt from now on** unless he asks otherwise.
 
 ---
 
@@ -513,6 +577,7 @@ Does the prefix split off in the present tense? Separable → **zu inside** (*ab
 
 - 2026-08-27, session 8: German sentences appeared attached to Gonçalo's messages that he did not write — **three times** (ex. 19, 26, 28). Each was voided and replaced.
 - Same session: two commits (`fbceeb21`, `ae15b612`, ~16:17) appeared in this repo that this instance did not make. Gonçalo confirmed the cause: **a second Claude instance running against the same Zapier connection.**
-- 2026-08-28, session 9: an answer appeared attached to the ex. 54 prompt. That item was already void because of my own leak, so nothing was lost. **Cause not established** — do not speculate.
+- 2026-08-28, session 9: an answer appeared attached to the ex. 54 prompt. **Cause not established** — do not speculate.
+- 2026-08-29, session 10: **no insertions observed.**
 - Consequence worth remembering: **parallel instances cannot see each other, and whichever writes last overwrites the other's version of the file.** Keep committing to one instance per session.
 - Handling for inserted text: acknowledge, void the item, do not treat it as an attempt, suggest a thumbs-down report.
