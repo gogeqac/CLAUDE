@@ -1,6 +1,6 @@
 # German Learning — Journey Log
 
-_Compiled 2026-08-25. Updated 2026-08-29 (session 10). Sources: past chat sessions + saved notes, plus direct confirmation from Gonçalo. Everything below is drawn from actual practice sessions; nothing is invented. Gaps are marked explicitly._
+_Compiled 2026-08-25. Updated 2026-08-29 (session 11). Sources: past chat sessions + saved notes, plus direct confirmation from Gonçalo. Everything below is drawn from actual practice sessions; nothing is invented. Gaps are marked explicitly._
 
 ---
 
@@ -21,146 +21,150 @@ Level is **A2/B1**. This replaces the earlier unresolved note (July sessions use
 | Konjunktiv II der Vergangenheit | **Paused — too difficult, deliberately set aside** |
 | zu + Infinitiv vs. um…zu | Completed — session 7, ex. 11–38 |
 | Separable verb + zu | Completed — session 8, 20 exercises. **11/11** on the target structure. |
-| Dative after prepositions | Completed — session 8 ext., ex. 21–40. Case endings flawless; preposition *choice* and word order were the errors. |
-| Two-way prepositions (an, auf, in, über, zwischen…) | **Now a strength** — ex. 36 carried Akk. and Dat. in one sentence, unaided. |
-| Article + adjective endings after ein-words | **Completed — session 9, ex. 41–60. Feminine accusative repaired (6/7). Weak nouns emerged as the new gap.** |
-| Vocabulary retention pass (isolated items) | **Completed — session 10, ex. 61–100. 28/40. Bare-dative verb government is the finding.** |
+| Dative after prepositions | Completed — session 8 ext., ex. 21–40 |
+| Two-way prepositions | **A strength** — ex. 36 carried Akk. and Dat. in one sentence, unaided |
+| Article + adjective endings after ein-words | Completed — session 9, ex. 41–60. **Re-tested and confirmed repaired in session 11.** |
+| Vocabulary retention pass (isolated items) | Completed — session 10, ex. 61–100. 28/40. |
+| Verb government: infinitive prompts vs. slot-fill | **Completed — session 11, ex. 101–140. The format effect is the finding.** |
 
 ---
 
-## 3. Recurring difficulties
+## 3. THE MAIN FINDING — sessions 10–11
 
-1. **Verb government stored separately from the verb — THE SESSION 10 FINDING.** Prompted for verb + case, four of seven bare-dative verbs came out as bare infinitives with no case (*antworten, gefallen, danken*) or the wrong case (*folgen* → said Akk.). *passen* was blank. Only *helfen* and *gehören* were complete. Same shape at ex. 68: *sich verabschieden* produced without its *von + Dat.* **The verbs are known; the government is not attached to them.**
-2. **Fixed prepositions — split.** *sich freuen auf* and *warten auf* correct; ***Angst von* wrong for the second time** (identical to the ex. 33 error), and *denken an* produced as *nachdenken an + Dat.* (wrong family member, wrong case).
-3. **Kitchen/tableware vocabulary — 2/6 cold.** *Löffel* and *Besteck* were still blank when re-tested ~25 items after I supplied them. Encoding failure, not retrieval.
-4. **Weak nouns (n-declension)** — *Kollege* nominative correct at ex. 77 but plural and accusative both missing. The class was explained in session 9; the forms have not stuck.
-5. **Subject–verb agreement slips under load.** Four on 2026-08-27; ZERO in session 9. Not testable in session 10 (isolated items carry no load).
-6. **Word order in the middle field.** TeMoLo wrong in ex. 22, 23, 30 — correct unprompted three times in session 9. Not tested in session 10.
-7. **Gender feeding the endings** — *meiner Bruder* → *meinem* (ex. 42), *zur Arzt* → *zum* (ex. 29, repaired). Also ex. 75: *Flugzeug* produced with no article at all.
-8. **Plusquamperfekt still not produced with *bevor*/*nachdem*** — ex. 59. Recurring across sessions. Not tested in session 10.
-9. **stehen/stellen** — ex. 80 answered *stehen* for "to place upright". *sitzen/setzen* were then both clean, so the pair mechanism is understood; *stellen* specifically is not retrievable.
-10. **English bleeding in under load** — *Her*, *We*, *Munich*, *I* for *Ich* (ex. 56). None in session 10, but the format carried almost no load.
-11. **Obligatory contractions** — *in dem* → *im* missed (ex. 53), though *zum* and *am* are solid.
+**Same verbs, same session, one hour apart:**
 
----
+| Format | Score |
+|---|---|
+| "to answer — verb + case" | **11/19** |
+| "*Ich antworte ___* (you)" | **17/19** |
 
-## 4. What improved
+*passen* was blank twice as an infinitive prompt and correct immediately in a frame. *antworten* and *danken* were given the accusative as infinitive prompts and produced dative correctly in frames. *sich verabschieden von* failed two days running as an infinitive prompt and came out complete with all three parts in a frame.
 
-**Session 10 — seven items cleared from 0 or 1:**
-- ***sich beeilen* 0 → 4** (ex. 67), after being supplied in two consecutive sessions. Biggest gain of the session.
-- ***der Staat* 0 → 4** (ex. 76) — the oldest 0 in the file.
-- ***der Mantel* 0 → 4** (ex. 72), one day after being supplied.
-- ***wiedersehen* 0 → 4** (ex. 69).
-- ***das Messer* 0 → 4** (ex. 61).
-- ***das Essen* 1 → 4** and ***schneiden* 1 → 4** — both long-standing repeat-failure items.
-- ***das Fenster* 2 → 4** (ex. 70).
-- ***helfen + Dativ* → 5, RETIRED** — verb and case together, twice across sessions.
-- **Adverbs clean 4/4**: *wieder* 2→4, *gern* 2→4, *schwierig* and *weiter* first-tested and correct.
-- ***sich freuen auf + Akk.* 2 → 4** — reflexive, preposition and case all three correct.
-- ***sitzen/setzen*** — both members of the pair correct as a clean set.
+**The government is not missing from his German. It is missing from his metalinguistic access to it.** He produces the correct form inside a sentence frame and cannot state the rule on demand. That is a normal split between implicit and explicit knowledge, and it means six sessions of infinitive-plus-case drilling were testing the wrong thing.
 
-**Earlier sessions:**
-- Feminine accusative after ein-words 6/7 and masculine accusative 5/5 in session 9.
-- *das Haus* → 5, RETIRED, after failing three consecutive sessions.
-- *spricht* (e→i) and *zum Arzt* both repaired in session 9.
-- Bare dative of the beneficiary produced unaided with *kaufen* (ex. 54).
-- *verlassen* 0 → 4 (session 8). Was the worst item in the log.
-- Two-way prepositions — ex. 36 remains the hardest sentence attempted and was fully correct.
-- The fronted-phrase comma rule — correct unprompted ex. 29, 35, 55.
+**Method change for future sessions: drill case government with slot-fill frames.** Keep the infinitive prompt only as an occasional check on whether the explicit knowledge has caught up — it is a separate and slower skill.
 
 ---
 
-## 5. Regressions to watch
+## 4. Recurring difficulties
 
-- ***Angst vor*.** Failed at ex. 33 and again at ex. 98 with the **identical** wrong preposition (*von*). Two sessions apart. Also produced *haben Angst* rather than *Angst haben* in the infinitive.
-- **anfangen + zu-infinitive.** Correct, wrong, correct across sessions 7–8; wrong again in ex. 59. Placement of the *zu*-infinitive after the finite verb in a subordinate clause is the specific gap.
-- **zu + adjective → um…zu.** Correct twice on 2026-08-26, failed on 2026-08-27. Trigger misfire.
-- **Dative plural -n.** Correct ex. 32 and 37, then dropped in ex. 57 after a numeral (*mit zwei Kinder*).
-- **Feminine accusative.** Held five times in session 9, then slipped at ex. 59 under the heaviest load. Load-dependent.
+1. **Explicit statement of verb government** — see section 3. Production is fine; naming the case is not.
+2. **Sequence pull in drills.** Both slot-fill errors came directly after an item of the opposite case: ex. 128 (*bitten* → answered *dir* after five datives) and ex. 131 (*folgen* → answered *dich* right after that *dich*). Neither is a knowledge gap. **Interleave accusative verbs rather than running datives in blocks.**
+3. **anfangen + zu-infinitive — four failures now.** Ex. 105 produced the verb without its government. Candidate for the same slot-fill treatment.
+4. **Kitchen/tableware vocabulary.** 2/6 cold. *Löffel* and *Besteck* still blank when re-tested ~25 items after being supplied — encoding failure, not retrieval.
+5. **Angst vor** — failed twice with the identical wrong preposition (*von*), two sessions apart.
+6. **Plusquamperfekt with *bevor*/*nachdem*** — still not produced. Untested since ex. 59.
+7. **stellen** — ex. 80 answered *stehen* for "to place upright". *sitzen/setzen* were clean, so the pair mechanism is understood; *stellen* specifically is not retrievable.
+8. **Separable prefix placement** — ex. 102 follow-up: *Ich ziehe um München* for *Ich ziehe nach München um*. Prefix left un-separated and the preposition dropped.
+9. **English bleeding in** — wrote *Munich* for *München*. Milder than earlier sessions (*Her*, *We*, *I* for *Ich*), but the isolated-item format carries little load.
+10. **Obligatory contractions** — *in dem* → *im* missed at ex. 53, though *zum* and *am* are solid.
 
 ---
 
-## 6. Vocabulary areas worth covering
+## 5. What improved
 
-Tailored to living and working in Munich:
+**Session 11 — the session 9 error set came back clean:**
+- Ex. 42 *meiner Bruder* → **ex. 133 *meiner Mutter* correct** (feminine dative *-er*)
+- Ex. 46 *einer junger Frau* → **ex. 138 *einer jungen Frau* correct — the identical phrase, repaired**
+- Ex. 52 *ein neuen Kollege* → **ex. 134 *meinem Kollegen* correct** — masculine dative *-em* AND the weak-noun *-n* together
+- Ex. 57 *mit zwei Kinder* → **ex. 137 *meinen Freunden* correct** — dative plural *-n* restored
+- **Weak nouns repaired in the frame**: *meinem Kollegen*, *dem Nachbarn*, both unaided, after the oblique forms were missing at ex. 77.
+- ***sich freuen auf + Akk.* and *sich treffen mit + Dat.* both retired at 5.**
+- ***schreiben + Dat.*** produced complete and unprompted in the infinitive format — the only verb to manage that.
+- *lassen*, *ankommen*, *regnen* all 2 → 4.
 
-- **Bureaucracy**: Anmeldung, Behörde, Amt, Antrag, Frist, Bescheinigung
-- **Banking**: Konto, Überweisung, IBAN
-- **Housing**: Miete, Kaution, Nebenkosten, Vermieter — *die Wohnung* and *günstig* are now live
-- **Formal/work register**: Anrede, Termin, Rücksprache, Anhang; *Könnten Sie…*, *Ich würde gerne…*
-- **Connectors**: deshalb, allerdings, trotzdem, außerdem
-- **Modal particles**: doch, mal, halt, eben
-- **Clothing** — opened in session 10: *Mantel* and *Jacke* both now at 4. The rest of the set is untouched.
-- **Kitchen/tableware** — tested at last in session 10 and it is the weakest area in the file. *Löffel* and *Besteck* at 0, *Gabel* and *Topf* at 1.
+**Session 10 — eight items cleared from 0 or 1:** *sich beeilen*, *der Staat*, *der Mantel*, *wiedersehen*, *das Messer*, *das Essen*, *schneiden*, *das Fenster*. *helfen + Dat.* retired at 5. Adverbs clean 4/4.
+
+**Earlier:** feminine accusative 6/7 and masculine accusative 5/5 in session 9; *das Haus* retired after failing three consecutive sessions; *verlassen* 0 → 4; the fronted-phrase comma rule correct unprompted three times.
+
+---
+
+## 6. Regressions to watch
+
+- ***versprechen* 5 → 3.** Ex. 109 produced ***verschreiben*** — to prescribe, or reflexively a slip of the pen. Case was right.
+- ***fragen* 3 → 2.** Ex. 107 gave *fragen + Dat.* Correct in the frame at ex. 126.
+- ***Angst vor*.** Ex. 33 and ex. 98, identical error.
+- **anfangen + zu-infinitive.** Correct, wrong, correct, wrong across four sessions.
+- **zu + adjective → um…zu.** Correct twice on 2026-08-26, failed 2026-08-27.
+- **Feminine accusative** slipped at ex. 59 under the heaviest load after holding five times. Load-dependent.
 
 ---
 
 ## 7. What to focus on next
 
-The shape now: **article and adjective endings are solved. Vocabulary breadth is better than assumed — most repeat-failure items cleared on the first cold test. The live gap is not words, it is what travels with them: cases and prepositions.**
-
 **Immediate:**
-1. **Bare-dative verbs, drilled as verb + case in one answer** — *helfen, danken, gehören, gefallen, passen, folgen, antworten, versprechen, schreiben, kaufen* (beneficiary). Do not accept a bare infinitive. This is the clearest single finding from session 10.
-2. **Fixed-preposition verbs** — *Angst vor* (failed twice with the same error), *denken an*, *sprechen über*, *sich verabschieden von*, *sich entscheiden für*. Same drill shape: verb + preposition + case, all three required.
-3. **Kitchen/tableware, cold** — *Löffel* and *Besteck* first, then *Gabel* and *Topf* (whose session 10 "correct" answers were not clean tests).
+1. **Keep the slot-fill format for all case-government work.** Interleave accusative verbs (*fragen*, *bitten*) among the datives instead of running blocks — the two errors in session 11 were both sequence pull.
+2. **anfangen + zu-infinitive in slot-fill frames**: *Er fängt an ___ arbeiten*. Four failures with the infinitive format; try the format that worked.
+3. **Kitchen/tableware, cold** — *Löffel* and *Besteck* first, then *Gabel* and *Topf* (whose session 10 results were not clean tests).
+4. **Angst vor** and **denken an** — slot-fill, not infinitive prompts.
 
 **Short term:**
-4. **Weak nouns** — one form per prompt. The class is understood; the accusative and dative forms are not produced.
-5. **Plusquamperfekt** — dedicated set with *bevor*/*nachdem* triggers. Still the most persistent structural gap, and untested since session 9.
-6. **Preposition vs. conjunction pairs** — nach/nachdem, vor/bevor, während, seit/seitdem, plus the comma rule.
-7. **stellen**, and re-test the *liegen/legen* and *hängen* pairs.
-8. **Comparative + case ending stacked** — *eine größere Wohnung*. Opened in ex. 49, one error, not yet drilled.
+5. **Plusquamperfekt** with *bevor*/*nachdem*. The most persistent structural gap and untested since session 9.
+6. **Preposition vs. conjunction pairs** — nach/nachdem, vor/bevor, seit/seitdem, plus the comma rule.
+7. **stellen**, and re-test *liegen/legen* and *hängen*.
+8. **Comparative + case ending stacked** — *eine größere Wohnung*. One error at ex. 49, never drilled.
 9. **Da-compounds** — opened 2026-08-26, still not drilled.
+10. **Return to sentence-level work.** Sessions 10–11 were isolated items and carried almost no load; word order, agreement and Plusquamperfekt cannot be assessed this way.
 
 **Later:**
-10. **sein vs. haben in Perfekt** — change-of-state verbs.
-11. Return to **Konjunktiv II der Vergangenheit** once the present-tense form is solid.
-12. The practical Munich vocabulary in section 6 — housing first.
+11. **sein vs. haben in Perfekt** — change-of-state verbs.
+12. **Konjunktiv II der Vergangenheit** once the present form is solid.
+13. Practical Munich vocabulary — housing first (Miete, Kaution, Nebenkosten, Vermieter), then bureaucracy and formal register.
 
 ---
 
 ## 8. Format that works
 
-- **"Practice vocabulary" means ISOLATED ITEMS, not sentences** — confirmed explicitly 2026-08-29. Noun with article (and plural), verb infinitive with any fixed preposition or case it governs, adjective or adverb bare. Sentences are a separate mode.
-- **One form per prompt.** Asking for article + plural + accusative in a single question was rejected 2026-08-29; ask the nominative, then the other forms separately if wanted.
-- **One exercise at a time**, not batches — explicitly requested.
-- Sets of **20 items**, worked through sequentially. He will ask for another 20 if he wants to continue.
+- **Slot-fill beats infinitive prompts for verb government, by a wide margin.** See section 3. This is the single most useful methodological finding so far.
+- **"Practice vocabulary" means ISOLATED ITEMS, not sentences** — confirmed 2026-08-29. Noun with article and plural, verb infinitive with its government, adjective bare.
+- **One form per prompt.** Asking for article + plural + accusative in one question was rejected.
+- **One exercise at a time**, not batches.
+- Sets of **20 items**. He asks for another set when he wants to continue.
 - **Corrections requested explicitly.**
-- **English prompts for zu / um…zu must use plain "to", never "in order to"** — otherwise the English cues the construction.
-- **Transliteration: ASCII substitutes are CORRECT and must never be flagged** — *ss* = ß, *ae* = ä, *oe* = ö, *ue* = ü. Confirmed explicitly 2026-08-28.
-- **Do not re-test an item in the same session in which I supplied the answer.** Session 10 did this with *Gabel* and *Topf*; the results were unusable. Space re-tests across sessions.
-- Commit progress mid-session on request. GitHub writes require Gonçalo's approval each time; reads do not.
-- Seeding exercises with low-scoring vocabulary from `vocabulary.md` works well.
-- **Explaining the underlying system on request lands well.**
-- **Repeating a previously-failed sentence verbatim works.** Ex. 43 reused the ex. 40 sentence and got it right.
-- **"Idk" is his signal to be given the answer and move on.** He does not want hints or a second attempt on vocabulary items.
+- **English prompts for zu / um…zu must use plain "to", never "in order to".**
+- **Transliteration: ASCII substitutes are CORRECT and must never be flagged** — *ss* = ß, *ae* = ä, *oe* = ö, *ue* = ü.
+- **Do not re-test an item in the same session in which I supplied the answer.**
+- **"Idk" / "I don't know" is his signal to be given the answer and move on** — no hints, no second attempt.
+- **He interrupts to ask follow-up questions mid-drill** (*ziehen* alone, *verabschiedete* vs. *verabschiedet*, whether a sentence was correct). Answer fully, then re-issue the pending exercise number. He picks the thread back up.
+- **He checks my examples against each other.** Ex. 139 follow-up: he asked whether one of my own example sentences was correct. Worth being accurate in throwaway examples.
+- Commit on request. GitHub writes require his approval each time; reads do not.
 
 ---
 
 ## 9. Known gaps in this record
 
 - No record of formal study outside these chat sessions.
-- No record of speaking or listening practice — everything logged is written exercises.
+- No record of speaking or listening practice — everything logged is written.
 - No test scores or external level assessment.
-- ~~The A1–A2 vs. B1 question is unresolved.~~ Resolved 2026-08-25.
 
 ---
 
 ## 10. Session log
 
-- **Session 7** (2026-08-26) — zu / um…zu, ex. 11–38. Topic completed.
-- **Session 8** (2026-08-27) — separable verb + zu, 20 exercises. **11/11 on the target structure.**
-- **Session 8 extension, part 1** (2026-08-27) — dative prepositions, ex. 21–28. Case endings 8/8.
-- **Session 8 extension, part 2** (2026-08-27/28) — ex. 29–40. ***verlassen* recovered 0→4.** Two-way prepositions became a strength.
-- **Session 9** (2026-08-28) — article + adjective endings after ein-words, ex. 41–60. **Feminine accusative 6/7, masculine accusative 5/5** — topic essentially repaired. *das Haus* retired. New gap: **weak nouns**. **Ex. 54 voided — my leak.**
-- **Session 10** (2026-08-29) — vocabulary retention pass, ex. 61–100, isolated items. **28/40.** First set 15/20, second set 13/20. **Eight items cleared from 0 or 1** (*sich beeilen, der Staat, der Mantel, wiedersehen, das Messer, das Essen, schneiden, das Fenster*). ***helfen + Dat.* retired at 5.** Adverbs clean 4/4. **The finding: bare-dative verbs produce the verb without the case** — four of seven. *Angst von* failed for the second time. Kitchen set 2/6 cold, with *Löffel* and *Besteck* still blank on a same-session re-test. **Two format corrections from Gonçalo: isolated items not sentences (ex. 61), one form per prompt (ex. 78).** Two items scored down for an unclean same-session re-test (ex. 83, 86) — my error.
+- **Session 7** (2026-08-26) — zu / um…zu, ex. 11–38.
+- **Session 8** (2026-08-27) — separable verb + zu. **11/11 on the target structure.**
+- **Session 8 ext.** (2026-08-27/28) — dative prepositions, ex. 21–40. ***verlassen* recovered 0→4.**
+- **Session 9** (2026-08-28) — article + adjective endings, ex. 41–60. Feminine accusative 6/7, masculine 5/5. New gap: weak nouns. Ex. 54 voided — my leak.
+- **Session 10** (2026-08-29) — vocabulary retention, ex. 61–100, isolated items. **28/40.** Eight items cleared from 0 or 1. *helfen* retired. Finding: bare-dative verbs produce the verb without the case. Two format corrections from Gonçalo.
+- **Session 11** (2026-08-29) — ex. 101–140. First set (infinitive prompts) **11/19**, ex. 118 void. Second set (slot-fill) **17/19**, ex. 132 void. **The format effect is the finding.** All four session 9 dative errors re-tested clean. *sich freuen auf* and *sich treffen mit* retired. *versprechen* and *fragen* regressed. **Nine text-insertion events — see section 11.**
 
 ---
 
-## 11. Note on parallel instances
+## 11. Interface issues — ESCALATING
 
-On 2026-08-27 two commits (`fbceeb21`, `ae15b612`) appeared in this repo that the drilling instance did not make, alongside German sentences appearing attached to Gonçalo's messages that he did not write. Gonçalo confirmed the cause: **a second Claude instance running against the same Zapier connection.**
+**Text that neither party typed appears attached to Gonçalo's messages.**
 
-Practical consequence: parallel instances cannot see each other, and whichever writes last silently overwrites the other's version of these files. **Keep committing to one instance per session.**
+| Date | Count |
+|---|---|
+| 2026-08-27 (session 8) | 3 |
+| 2026-08-28 (session 9) | 1 |
+| 2026-08-29 (session 10) | 0 |
+| 2026-08-29 (session 11) | **9** |
 
-A further insertion occurred in session 9 (ex. 54). Cause not established; handled by voiding the item. **No insertions in session 10.**
+Two session 11 items voided: **ex. 118**, where the correct answer appeared above his actual message and made it look as though I had leaked it, and **ex. 132**, where the answer appeared above a wrong reply. The inserted text **pulls from the target answer**, which is what makes it look like a leak. At ex. 137 his line appeared three times.
+
+**On reporting:** Gonçalo asked me to flag this to Anthropic. **I have no channel to do so** — nothing written in a conversation reaches a developer, and no reporting tool is available. The only route is the **thumbs-down button on the affected turns**, which attaches the transcript so the inserted text is visible to whoever reviews it. Suggested note: "text I didn't type appears attached to my messages", citing exercise numbers and the 2026-08-27 to 2026-08-29 span.
+
+**Separate and resolved:** the 2026-08-27 phantom commits (`fbceeb21`, `ae15b612`) were caused by **a second Claude instance on the same Zapier connection** — confirmed by Gonçalo. Different mechanism from the text insertions, which remain unexplained.
+
+**Consequence:** parallel instances cannot see each other, and whichever writes last silently overwrites the other's version of these files. Keep to one instance per session.
